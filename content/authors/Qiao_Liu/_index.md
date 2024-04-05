@@ -33,10 +33,10 @@ education:
   courses:
     - course: Joint PhD in Statistics
       institution: Stanford University
-      year: 2021
+      year: 2019-2021
     - course: PhD student in Bioinformatics
       institution: Tsinghua University
-      year: 2019
+      year: 2016-2019
     - course: BSc in Engineering
       institution: Beihang University
       year: 2012-2016
