@@ -39,7 +39,7 @@ education:
       year: 2019
     - course: BSc in Engineering
       institution: Beihang University
-      year: 2016
+      year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

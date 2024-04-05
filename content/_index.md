@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Liu Research Group
+        Liu Lab @ Yale
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        At the intersection of AI, statistics, and biology, our lab is dedicated to developing novel computational frameworks for unraveling the complexities of biomedical data, paving the way for groundbreaking discoveries in computational biology and biomedical informatics, ultimately improving human health.
+        At the intersection of AI, statistics, and biology, our lab is dedicated to developing novel computational frameworks for unraveling the complexities of biomedical data, paving the way for groundbreaking discoveries in computational biology and biomedical informatics.
   
   - block: collection
     content:
