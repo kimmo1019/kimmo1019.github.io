@@ -1,21 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-04-04
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Liu Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        At the intersection of AI, statistics, and biology, our lab is dedicated to developing novel computational frameworks for unraveling the complexities of biomedical data, paving the way for groundbreaking discoveries in computational biology and biomedical informatics, ultimately improving human health.
   
   - block: collection
     content:
