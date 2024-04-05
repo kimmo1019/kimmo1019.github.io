@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Liu Lab'
+    notice: '© {year} Liu Lab. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false
