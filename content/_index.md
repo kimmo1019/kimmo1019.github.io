@@ -51,7 +51,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
       
   - block: hero
     content:
