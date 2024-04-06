@@ -8,32 +8,38 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to Our Group @ Yale
+        content: We develop AI-powered frameworks for statistical and biomedical research.
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: campus2.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Current Research Interest
+        content: 'Generative AI in Computational Genomics, Causal Inference in Observational Studies, AI-Powered Bayesian Statistics'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: campus3.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+        link:
+          icon: book-open
+          icon_pack: fas
+          text: Learn more
+          url: ../research/
+
+      - title: A Multidisciplinary Research Lab ❤️ 
+        content: 'We are seeking for researchers at all levels to join us!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: campus.jpg
             fit: contain
             filters:
               brightness: 0.5
@@ -56,59 +62,123 @@ sections:
   - block: hero
     content:
       title: |
-        Liu Lab @ Yale
+        Our Mission
       image:
         filename: welcome.jpg
-      text: |
+      text: |-
         <br>
-        
+
         At the intersection of AI, statistics, and biology, our lab is dedicated to developing novel computational frameworks for unraveling the complexities of biomedical data, paving the way for groundbreaking discoveries in computational biology and biomedical informatics.
-  
+
   - block: collection
+    id: posts
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
+      title: Recent Posts
       subtitle: ''
-      text:
+      text: 'Check out my recent blog posts below!'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      # Choose a listing view
+      view: compact
+      # Choose single or dual column layout
+      columns: '2'
+
+  - block: markdown
+    content:
+      title: Research Highlight
+      subtitle: 
+      text: |-
+
+        Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code! {{% cta cta_link="./people/" cta_text="Meet the team ❤️ " %}}
+        
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      
+  - block: portfolio
+    id: projects
+    content:
+      title: Highlighted Projects
+      subtitle: 
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      filters:
+        # Folders to display content from
+        folders:
+          - project
+        # Only show content with these tags
+        tags: []
+        # Exclude content with these tags
+        exclude_tags: []
+        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+        kinds:
+          - page
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+      # Default portfolio filter button
+      # 0 corresponds to the first button below and so on
+      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
+      default_button_index: 0
+      # Filter button toolbar (optional).
+      # Add or remove as many buttons as you like.
+      # To show all content, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the button toolbar, delete the entire `buttons` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Deep Learning
+          tag: Deep Learning
+        - name: Statistics
+          tag: Statistics
+        - name: Genomics
+          tag: Genomics
+        - name: Database
+          tag: Database
+        - name: Other
+          tag: Demo
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      # Choose a listing view
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
   
   - block: markdown
     content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      title: Support & Funding
+      subtitle: 
+      text: |-
+
+        We appreciate the support from the below funding agencies.
+        
     design:
-      columns: '1'
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+
 ---
