@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-04-04
+date: 2024-07-21
 type: landing
 
 sections:
@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to Our Group @ Yale
-        content: We develop AI-powered frameworks for statistical and biomedical research.
+        content: We develop AI-powered frameworks for biomedical and statistical research.
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Current Research Interest
-        content: 'Generative AI in Computational Genomics, Causal Inference in Observational Studies, AI-Powered Bayesian Statistics'
+      - title: Current Research Topics
+        content: Generative AI, Causal Inference, Single Cell, Gene Regulation, High-dimensional Statistics
         align: left
         background:
           image:
@@ -46,7 +46,7 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: people-group
           icon_pack: fas
           text: Join Us
           url: ../contact/
