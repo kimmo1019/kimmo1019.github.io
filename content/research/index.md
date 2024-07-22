@@ -1,26 +1,27 @@
 ---
-title: Research Highlights
+title: Research Statement
 ---
 
-## Introduction
+## Background
 
-Welcome to the research highlights page! Here, you will find a collection of our latest research findings and breakthroughs. We are constantly pushing the boundaries of knowledge in various fields, and we are excited to share our discoveries with you.
+The use of statistics is expanding rapidly in many computationally intensive areas that rely on large and novel datasets, both inside and outside of academia. A pressing challenge is how to efficiently and accurately decipher complex relationships in large-scale data from real-world problems. Our general research interest lies in this multi-disciplinary area where we have been developing practical statistical and machine learning tools with significance in both statistical theory and applications. In particular, we have been pursuing this research agenda by leveraging advances in generative artificial intelligence (AI) to address several fundamental statistical problems, such as density estimation, causal inference, and unsupervised learning, with wide applications in computational biology and biomedical informatics.
+
+Our research goal is to fulfill the new theories and methodologies for addressing statistical challenges in computational biology and biomedical data science by developing computationally efficient frameworks powered by state-of-the-art AI techniques. To this end, we have been developing novel frameworks for tackling general statistical problems and applying these frameworks to various computational biology problems, which involve pharmacology data, biomedical data, and multiomics (genetic/genomic/radiomic) data analysis. We have pursued a productive research agenda in these areas, with high-impact publications in each area, which is elaborated in the following sections.
 
 ## Highlights
 
-### [Title of Research Paper 1](link-to-paper-1)
+### A Versatile Framework for High-dimensional Data Analysis
 
-Summary of the research paper 1.
+I developed an innovative and versatile framework, called Encoding Generative Modeling (EGM), based on manifold learning using generative AI techniques. This general EGM framework has been successfully used in both general statistical problems and various downstream applications in computational biology. 
 
-### [Title of Research Paper 2](link-to-paper-2)
+- **Density Estimation**: We invented an innovative and versatile framework named Roundtrip ([Liu et al PNAS. 2021](https://www.pnas.org/doi/10.1073/pnas.2101344118)) for density estimation of high-dimensional data by utilizing the power of generative AI. We not only established a rigorous statistical theory but also conducted extensive numerical experiments to showcase the effectiveness of this model. Then we extended the Roundtrip and proposed an innovative model called scDEC ([Liu et al Nature Machine Intelligence. 2021](https://www.nature.com/articles/s42256-021-00333-y)) for unsupervised learning. It is also worth noting that by using a modified version of scDEC, we were the winner team in two joint embedding tasks in the [NeurIPS 2021 Multimodal Single-Cell Data Integration competition](https://openproblems.bio/events/2021-09_neurips/), further confirming the significance of our method.
 
-Summary of the research paper 2.
+- **Causal Inference**: Causal inference is one of the most important research frontiers in statistics. We developed a powerful method, called Causal Encoding Generative Modeling (CausalEGM) ([Liu et al., PNAS. 2024](https://www.pnas.org/doi/abs/10.1073/pnas.2322376121)), for the analysis of causal relationships between different variables in the presence of high-dimensional covariates. Through rigorous mathematical analysis and numerical experiments, I demonstrated that the proposed approach offers significant advantages over existing methods for the estimation of causal effects. This work was presented at the JSM 2023 IMS Grace Wahba Award Lecture.
 
-### [Title of Research Paper 3](link-to-paper-3)
+### Applying Cutting-edge AI Techniques in Computational Biology
 
-Summary of the research paper 3.
+The past few years have witnessed the rapid evolution and revolutionization of AI techniques. Our research works in computational biology have been in close alignment with the development of cutting-edge AI technologies, which I will briefly discuss below.
 
-## Conclusion
+- **Modeling Epigenomic Data**: Epigenomic data characterize the various chromatin states, including chromatin accessibility, TF binding, histone modifications, and 3D genome interactions. Epigenetic changes to the DNA and associated proteins affect gene expression and may lead to altered cellular states, including diseases. We have developed several AI-powered frameworks for predicting chromatin accessibility ([Liu et al., Bioinformatics. 2017](https://academic.oup.com/bioinformatics/article/34/5/732/4562336); [Liu et al., GPB. 2020](https://academic.oup.com/gpb/article/20/3/496/7198179)). Later, we exploited epigenomic data in pharmaceutical studies by developing DeepCDR ([Liu et al., ECCB/Bioinformatics. 2020](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929)) for predicting cancer drug response, which is still one of the state-of-the-art methods to date. Moreover, we leveraged the power of generative AI and developed a hicGAN model ([Liu et al., ISMB/Bioinformatics. 2019](https://academic.oup.com/bioinformatics/article/35/14/i99/5529246)) to enhance the resolution of 3D genome data. We also built a HiChIP database ([Zeng*, Liu* et al., Nucleic Acids Res. 2022](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910)) and a web server ([Chen et al., Nucleic Acids Res. 2021](https://academic.oup.com/nar/article/49/W1/W483/6276912)) to facilitate the use of epigenomic data.
 
-Thank you for visiting our research highlights page. We hope you find our work inspiring and informative. Stay tuned for more exciting research updates!
-
+- **Genomic Language Model**: Large language models (LLMs) have been the main driving force behind many recent breakthroughs in artificial intelligence. Inspired by this, we have been exploring the idea of a “genomic LLM” that could advance our understanding of gene regulation mechanisms. We developed a genomic large language model, EpiGePT ([Gao*, Liu* et al., arxRiv. 2023](https://www.biorxiv.org/content/10.1101/2023.07.15.549134v2)), based on a transformer-based architecture to understand the complex genome language and achieve several benefits: improved predictive performance, wider applicability, enhanced biological interpretability, and support for multiple downstream tasks, such as the dissection of the universal gene regulation rules. The genomic LLM will provide broad insights into genetics, genomics, and beyond.

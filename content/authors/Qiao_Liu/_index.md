@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: Joint PhD in Statistics
+    - course: Visiting PhD in Statistics
       institution: Stanford University
       year: 2019-2021
     - course: PhD student in Bioinformatics
@@ -67,8 +67,9 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
+highlight_name: true
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using People widget. Principal Investigators/Researchers/Grad Students/Administration/Visitors/Alumni
 user_groups:
   - Principal Investigator
 ---

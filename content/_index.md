@@ -121,7 +121,7 @@ sections:
     content:
       title: Selected Publications
       subtitle: 
-      text: Full publications can be found at [Publications]({{< ref "../publication/" >}} "Publications") or [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=en).
+      text: Full publications can be found at [Publications]({{< ref "../publication/" >}} "Publications") tab or [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=en).
       filters:
         # Folders to display content from
         folders:

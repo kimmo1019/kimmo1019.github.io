@@ -10,9 +10,7 @@ sections:
       title: Lab News
       subtitle: ''
       text: |-
-        **2024.09.01** The Liu Lab officially started at Yale Biostatistics. We are recruiting talents at all levels to join our team. Explore our current lab openings and become a part of our exciting journey!
-
-        **2024.08.01** The Liu Lab officially started at Yale Biostatistics. We are recruiting talents at all levels to join our team. Explore our current lab openings and become a part of our exciting journey!
+        **2024.05.01** The Liu Lab will officially start at Yale Biostatistics Fall 2025. We are recruiting talents at all levels to join our team. Explore our current lab openings and become a part of our exciting journey!
     design:
       columns: '2'
       # background:
