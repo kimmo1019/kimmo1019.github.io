@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to Our Group @ Yale
+      - title: 👋 Welcome to Liu Group @ Yale
         content: We develop AI-powered frameworks for biomedical and statistical research.
         align: center
         background:
@@ -70,64 +70,64 @@ sections:
 
         At the intersection of AI, statistics, and biology, our lab is dedicated to developing novel computational frameworks for unraveling the complexities of biomedical data, paving the way for groundbreaking discoveries in computational biology and biomedical informatics.
 
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: 'Check out my recent blog posts below!'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
-      # Choose single or dual column layout
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: 'Check out my recent blog posts below!'
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       # The folders to display content from
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       publication_type: ""
+  #       featured_only: false
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #     # Choose how many pages you would like to offset by
+  #     # Useful if you wish to show the first item in the Featured widget
+  #     offset: 0
+  #     # Field to sort by, such as Date or Title
+  #     sort_by: 'Date'
+  #     sort_ascending: false
+  #   design:
+  #     # Choose a listing view
+  #     view: compact
+  #     # Choose single or dual column layout
+  #     columns: '2'
 
-  - block: markdown
-    content:
-      title: Research Highlight
-      subtitle: 
-      text: |-
+  # - block: markdown
+  #   content:
+  #     title: Research Highlight
+  #     subtitle: 
+  #     text: |-
 
-        Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code! {{% cta cta_link="./people/" cta_text="Meet the team ❤️ " %}}
+  #       Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code! {{% cta cta_link="./people/" cta_text="Meet the team ❤️ " %}} 
         
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+  #   design:
+  #     # See Page Builder docs for all section customization options.
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '2'
       
   - block: portfolio
     id: projects
     content:
-      title: Highlighted Projects
+      title: Selected Publications
       subtitle: 
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: Full publications can be found at [Publications]({{< ref "../publication/" >}} "Publications") or [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=en).
       filters:
         # Folders to display content from
         folders:
-          - project
+          - publication
         # Only show content with these tags
-        tags: []
+        tags: ['HL']
         # Exclude content with these tags
         exclude_tags: []
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
@@ -148,16 +148,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: AI
+          tag: AI
         - name: Statistics
           tag: Statistics
         - name: Genomics
           tag: Genomics
+        - name: Drug
+          tag: Drug
         - name: Database
           tag: Database
-        - name: Other
-          tag: Demo
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
