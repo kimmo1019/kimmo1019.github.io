@@ -37,8 +37,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: ' https://github.com/jasminezhoulab/cfSort'
+url_pdf: 'https://www.pnas.org/doi/epdf/10.1073/pnas.2305236120'
+url_code: 'https://github.com/jasminezhoulab/cfSort'
 url_dataset: 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233417'
 url_poster: ''
 url_project: ''
