@@ -173,8 +173,41 @@ sections:
       title: Support & Funding
       subtitle: 
       text: |-
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Support & Funding</title>
+            <style>
+                .support-funding {
+                    text-align: center;
+                    margin: 10px 0;
+                }
+                .logos {
+                    display: flex;
+                    justify-content: center;
+                    gap: 50px; /* Fixed space between logos */
+                    flex-wrap: wrap;
+                }
+                .logos img {
+                    height: 120px; /* Fixed height for the logos */
+                    width: auto; /* Maintain aspect ratio */
+                }
+            </style>
+        </head>
+        <body>
 
-        We appreciate the support from the below funding agencies.
+        <div class="support-funding">
+            <p>We appreciate the support from the below organizations & agencies.</p>
+            <div class="logos">
+                <img src="files/nih.png" alt="Funding Agency 1">
+                <img src="files/biox.png" alt="Funding Agency 3">
+                <!-- Add more logos as needed -->
+            </div>
+        </div>
+
+        </body>
+        </html>
         
     design:
       # See Page Builder docs for all section customization options.
