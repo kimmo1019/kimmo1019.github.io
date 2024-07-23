@@ -24,9 +24,7 @@ publication_short: ""
 
 abstract: Federated learning (FL) is a privacy-preserving paradigm for multi-institutional collaborations, where the aggregation is an essential procedure after training on the local datasets. Conventional aggregation algorithms often apply a weighted averaging of the updates generated from distributed machines to update the global model. However, while the data distributions are non-IID, the large discrepancy between the local updates might lead to a poor averaged result and a lower convergence speed, i.e., more iterations required to achieve a certain performance. To solve this problem, this article proposes a novel method named AggEnhance for enhancing the aggregation, where we synthesize a group of reliable samples from the local models and tune the aggregated result on them. These samples, named class interior points (CIPs) in this work, bound the relevant decision boundaries that ensure the performance of aggregated result. To the best of our knowledge, this is the first work to explicitly design an enhancing method for the aggregation in prevailing FL pipelines. A series of experiments on real data demonstrate that our method has noticeable improvements of the convergence in non-IID scenarios. In particular, our approach reduces the iterations by 31.87% on average for the CIFAR10 dataset and 43.90% for the PASCAL VOC dataset. Since our method does not modify other procedures of FL pipelines, it is easy to apply to most existing FL frameworks. Furthermore, it does not require additional data transmitted from the local clients to the global server, thus holding the same security level as the original FL algorithms.
 
-# Summary. An optional shortened abstract.
-summary: Jinxiang Ou, Yunheng Shen, Feng Wang, Qiao Liu, Xuegong Zhang, Hairong Lv. ACM Transactions on Intelligent
-Systems and Technology (TIST ), 2022.
+summary: Jinxiang Ou, Yunheng Shen, Feng Wang, Qiao Liu, Xuegong Zhang, Hairong Lv. ACM Transactions on Intelligent Systems and Technology, 2022.
 
 tags:
 - AI
