@@ -8,8 +8,11 @@ Our lab is committed to developing open-source softwares to advance data science
 
 - **CausalEGM**: A causal inference algorithm that could handle large-scale datasets [[Github](https://github.com/SUwonglab/CausalEGM)][[Pypi](https://pypi.org/project/CausalEGM/)][[CRAN](https://cran.r-project.org/web/packages/RcausalEGM/index.html)][[Website](https://causalegm.readthedocs.io/)].
 - **Roundtrip**: A density estimation algorithm using deep generative neural networks [[Github](https://github.com/kimmo1019/Roundtrip)][[Pypi](https://pypi.org/project/pyroundtrip/)].
+- **scDEC**: A method for high-dimensional data clustering/embedding with applications to the scATAC-seq and multiome data [[Github](https://github.com/kimmo1019/scDEC)].
 
 ## Computational Biology
 
-- **scDEC**: A method for the scATAC-seq and multiome data clustering and embedding [[Github](https://github.com/kimmo1019/scDEC)].
+- **DeepCDR**: A graph neural network-based method for the cancer drug response prediction [[Github](https://github.com/kimmo1019/DeepCDR)].
+- **hicGAN**: A GAN-based framework for enhancing the resolution of Hi-C data [[Github](https://github.com/kimmo1019/hicGAN)].
+- **HiChIPdb**: The first HiChIP database, containing ~262 million interactions across 108 cell types [[Database](https://health.tsinghua.edu.cn/hichipdb/)].
 
