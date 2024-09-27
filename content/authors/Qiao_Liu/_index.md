@@ -27,18 +27,18 @@ bio: My research interests include generative AI, Bayesian statistics, and compu
 interests:
   - Generative AI
   - Computational Biology
-  - Causal Inference
+  - High-dimensional Statistics
 
 education:
   courses:
-    - course: Visiting PhD in Statistics
-      institution: Stanford University
+    - course: Visiting PhD student
+      institution: Dept. of Statistics, Stanford University
       year: 2019-2021
-    - course: PhD student in Bioinformatics
-      institution: Tsinghua University
+    - course: PhD student
+      institution: Dept. of Automation, Tsinghua University
       year: 2016-2019
-    - course: BSc in Engineering
-      institution: Beihang University
+    - course: Bachelor of Science
+      institution: Shenyuan Honors College, Beihang University
       year: 2012-2016
 
 # Social/Academic Networking
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'liuqiao@stanford.edu'
+    link: liuqiao@stanford.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/liuqiao_
