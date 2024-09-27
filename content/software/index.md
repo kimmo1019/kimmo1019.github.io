@@ -2,7 +2,7 @@
 title: Academic Software
 ---
 
-Our lab is committed to developing open-source softwares to advance data science research. Below are some of the software projects we have developed with Python Pypi and/or R CRAN packages.
+Our lab is committed to developing open-source softwares to advance data science research. Below are some of the software projects we have developed with Python and/or R packages.
 
 ## Statistics
 
@@ -14,5 +14,5 @@ Our lab is committed to developing open-source softwares to advance data science
 
 - **DeepCDR**: A graph neural network-based method for the cancer drug response prediction [[Github](https://github.com/kimmo1019/DeepCDR)].
 - **hicGAN**: A GAN-based framework for enhancing the resolution of Hi-C data [[Github](https://github.com/kimmo1019/hicGAN)].
-- **HiChIPdb**: The first HiChIP database, containing ~262 million interactions across 108 cell types [[Database](https://health.tsinghua.edu.cn/hichipdb/)].
+- **HiChIPdb**: The first HiChIP database, containing 262 million interactions across 108 cell types [[Database](https://health.tsinghua.edu.cn/hichipdb/)].
 

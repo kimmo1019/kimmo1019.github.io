@@ -22,7 +22,7 @@ publication_short: ""
 abstract: In this article, we develop CausalEGM, a deep learning framework for nonlinear dimension reduction and generative modeling of the dependency among covariate features affecting treatment and response. CausalEGM can be used for estimating causal effects in both binary and continuous treatment settings. By learning a bidirectional transformation between the high-dimensional covariate space and a low-dimensional latent space and then modeling the dependencies of different subsets of the latent variables on the treatment and response, CausalEGM can extract the latent covariate features that affect both treatment and response. By conditioning on these features, one can mitigate the confounding effect of the high dimensional covariate on the estimation of the causal relation between treatment and response. In a series of experiments, the proposed method is shown to achieve superior performance over existing methods in both binary and continuous treatment settings. The improvement is substantial when the sample size is large and the covariate is of high dimension. Finally, we established excess risk bounds and consistency results for our method, and discuss how our approach is related to and improves upon other dimension reduction approaches in causal inference.
 
 # Summary. An optional shortened abstract.
-summary: Qiao Liu, Zhongren Chen, Wing Hung Wong. PNAS, 2024.
+summary: <ins>Qiao Liu</ins>, Zhongren Chen, Wing Hung Wong. ***PNAS***, 2024.
 
 tags:
 - AI

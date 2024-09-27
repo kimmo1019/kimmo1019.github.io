@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Density estimation is one of the fundamental problems in both statistics and machine learning. In this study, we propose Roundtrip, a computational framework for general-purpose density estimation based on deep generative neural networks. Roundtrip retains the generative power of deep generative models, such as generative adversarial networks (GANs) while it also provides estimates of density values, thus supporting both data generation and density estimation. Unlike previous neural density estimators that put stringent conditions on the transformation from the latent space to the data space, Roundtrip enables the use of much more general mappings where target density is modeled by learning a manifold induced from a base density (e.g., Gaussian distribution). Roundtrip provides a statistical framework for GAN models where an explicit evaluation of density values is feasible. In numerical experiments, Roundtrip exceeds state-of-the-art performance in a diverse range of density estimation tasks.
 
 # Summary. An optional shortened abstract.
-summary: Qiao Liu, Jiaze Xu, Rui Jiang, Wing Hung Wong. PNAS, 2021.
+summary: <ins>Qiao Liu</ins>, Jiaze Xu, Rui Jiang, Wing Hung Wong. ***PNAS***, 2021.
 
 tags:
 - AI
@@ -38,7 +38,7 @@ url_pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.2101344118
 url_code: 'https://github.com/kimmo1019/Roundtrip'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: '' 
 url_slides: ''
 url_source: ''
 url_video: ''

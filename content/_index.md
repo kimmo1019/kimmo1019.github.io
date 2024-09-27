@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to Liu Group @ Yale
-        content: We develop AI-powered frameworks for biomedical and statistical research.
+        content: We develop AI-powered computational frameworks for biomedical and statistical research
         align: center
         background:
           image:

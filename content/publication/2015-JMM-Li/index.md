@@ -24,7 +24,7 @@ publication_short: ""
 abstract: Protein folding is a fundamental topic in molecular biology. Conventional experimental techniques for protein structure identification or protein folding recognition require strict laboratory requirements and heavy operating burdens, which have largely limited their applications. Alternatively, computer-aided techniques have been developed to optimize protein structures or to predict the protein folding process. In this paper, we utilize a 3D off-lattice model to describe the original protein folding scheme as a simplified energy-optimal numerical problem, where all types of amino acid residues are binarized into hydrophobic and hydrophilic ones. We apply a balance-evolution artificial bee colony (BE-ABC) algorithm as the minimization solver, which is featured by the adaptive adjustment of search intensity to cater for the varying needs during the entire optimization process. In this work, we establish a benchmark case set with 13 real protein sequences from the Protein Data Bank database and evaluate the convergence performance of BE-ABC algorithm through strict comparisons with several state-of-the-art ABC variants in short-term numerical experiments. Besides that, our obtained best-so-far protein structures are compared to the ones in comprehensive previous literature. This study also provides preliminary insights into how artificial intelligence techniques can be applied to reveal the dynamics of protein folding.
 
 # Summary. An optional shortened abstract.
-summary: Bai Li, Mu Lin, Qiao Liu, Ya Li & Changjun Zhou.  Journal of Molecular Modeling, 2015.
+summary: Bai Li, Mu Lin, <ins>Qiao Liu</ins>, Ya Li & Changjun Zhou. ***Journal of Molecular Modeling***, 2015.
 
 tags: ''
 

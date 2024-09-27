@@ -9,6 +9,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
 date: "2022-10-10T00:00:00Z"
 doi: "10.1093/nar/gkac859"
 
@@ -27,7 +28,7 @@ publication_short: ""
 abstract: Elucidating the role of 3D architecture of DNA in gene regulation is crucial for understanding cell differentiation, tissue homeostasis and disease development. Among various chromatin conformation capture methods, HiChIP has received increasing attention for its significant improvement over other methods in profiling of regulatory (e.g. H3K27ac) and structural (e.g. cohesin) interactions. To facilitate the studies of 3D regulatory interactions, we developed a HiChIP interactions database, HiChIPdb (http://health.tsinghua.edu.cn/hichipdb/). The current version of HiChIPdb contains ∼262M annotated HiChIP interactions from 200 high-throughput HiChIP samples across 108 cell types. The functionalities of HiChIPdb include (i) standardized categorization of HiChIP interactions in a hierarchical structure based on organ, tissue and cell line and (ii) comprehensive annotations of HiChIP interactions with regulatory genes and GWAS Catalog SNPs. To the best of our knowledge, HiChIPdb is the first comprehensive database that utilizes a unified pipeline to map the functional interactions across diverse cell types and tissues in different resolutions. We believe this database has the potential to advance cutting-edge research in regulatory mechanisms in development and disease by removing the barrier in data aggregation, preprocessing, and analysis.
 
 # Summary. An optional shortened abstract.
-summary: Wanwen Zeng*,Qiao Liu*, Qijin Yin*, Rui Jiang, Wing Hung Wong. Nucleic Acids Research, 2022.
+summary: Wanwen Zeng*, <ins>Qiao Liu*</ins>, Qijin Yin*, Rui Jiang, Wing Hung Wong. ***Nucleic Acids Research***, 2022.
 
 tags:
 - Genomics

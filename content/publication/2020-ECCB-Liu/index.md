@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Accurate prediction of cancer drug response (CDR) is challenging due to the uncertainty of drug efficacy and heterogeneity of cancer patients. Strong evidences have implicated the high dependence of CDR on tumor genomic and transcriptomic profiles of individual patients. Precise identification of CDR is crucial in both guiding anti-cancer drug design and understanding cancer biology. In this study, we present DeepCDR which integrates multi-omics profiles of cancer cells and explores intrinsic chemical structures of drugs for predicting CDR. Specifically, DeepCDR is a hybrid graph convolutional network consisting of a uniform graph convolutional network and multiple subnetworks. Unlike prior studies modeling hand-crafted features of drugs, DeepCDR automatically learns the latent representation of topological structures among atoms and bonds of drugs. Extensive experiments showed that DeepCDR outperformed state-of-the-art methods in both classification and regression settings under various data settings. We also evaluated the contribution of different types of omics profiles for assessing drug response. Furthermore, we provided an exploratory strategy for identifying potential cancer-associated genes concerning specific cancer types. Our results highlighted the predictive power of DeepCDR and its potential translational value in guiding disease-specific drug design.
 
 # Summary. An optional shortened abstract.
-summary: Qiao Liu, Zhiqiang Hu, Rui Jiang, Mu Zhou. ECCB Proceedings/Bioinformatics, 2020
+summary: <ins>Qiao Liu</ins>, Zhiqiang Hu, Rui Jiang, Mu Zhou. ***ECCB Proceedings/Bioinformatics***, 2020
 
 tags:
 - AI
