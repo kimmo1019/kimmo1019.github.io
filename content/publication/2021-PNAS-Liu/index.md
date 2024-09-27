@@ -1,5 +1,5 @@
 ---
-title: "Desity estimation with deep generative neural networks"
+title: "Density estimation using deep generative neural networks"
 authors:
 - Qiao Liu
 - Jiaze Xu
