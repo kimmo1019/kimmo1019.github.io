@@ -4,7 +4,7 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 ## Positions Available
 
-- **Postdoctoral Associate**: We are hiring a postdoc, who is interested in genomic LLM, radiomics, and Alzhemier's disease.
+- **Postdoctoral Associate**: We are hiring a postdoc with expertise in genomics, LLM, and neurodegenerative disease.
 
 <!-- - **Graduate Students**: Graduate students from any department at Yale are highly welcomed to contact Dr. Liu via email directly. -->
 

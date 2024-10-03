@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. Principal Investigators/Researchers/Grad Students/Administration/Visitors/Alumni
 user_groups:
-  - Graduate Students
+  - test
 ---
 
 <!-- I am an incoming assistant professor at Department of Biostatistics, Yale University. My general research interest lies in the multi-disciplinary area where I have been committed to developing practical statistical and machine learning tools with significance in both statistical theory and applications. In particular, I have been pursuing this research agenda by exploiting the advances in generative artificial intelligence (AI) to tackle several fundamental statistical problems, such as density estimation, causal inference, and unsupervised learning with also broad applications in computational biology. -->

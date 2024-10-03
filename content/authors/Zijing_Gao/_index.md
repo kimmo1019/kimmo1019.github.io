@@ -25,8 +25,7 @@ organizations:
 bio: My research interests include generative AI, Bayesian statistics, and computational biology.
 
 interests:
-  - Computational Biology
-  - Genomic LLM
+  - Bioinformatics
 
 education:
   courses:
@@ -44,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'gzj21@mails.tsinghua.edu.cn'
+    link: gzj21@mails.tsinghua.edu.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=rDNCke8AAAAJ&hl=zh-CN

@@ -11,7 +11,7 @@ sections:
       subtitle: ''
       text: |-
 
-        * **2024.09.13** The Liu Lab will officially start at Yale Biostatistics Fall 2025. We are recruiting talents at different levels to join our team. Explore our current lab openings and become a part of our exciting journey!
+        * **2024.09.13** The Liu Lab will officially start at Yale Biostatistics Fall 2025. Explore our current lab openings and become a part of our exciting journey!
 
         * **2024.08.26** Dr. Qiao Liu received the NIH Pathway to Independence Award (K99/R00).
 
