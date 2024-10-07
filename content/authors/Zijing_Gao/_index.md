@@ -31,10 +31,10 @@ education:
   courses:
     - course: PhD student in Bioinformatics
       institution: Tsinghua University
-      year: 2020-now
+      year: 2021-now
     - course: BSc in Automation
       institution: Tsinghua University
-      year: 2016-2020
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
