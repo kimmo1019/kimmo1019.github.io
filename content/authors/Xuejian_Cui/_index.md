@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'cuixj19@mails.tsinghua.edu.cn'
+    link: "mailto:cuixj19@mails.tsinghua.edu.cn"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=p34kBZsAAAAJ&hl=zh-CN

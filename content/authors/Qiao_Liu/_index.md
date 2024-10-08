@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: liuqiao@stanford.edu
+    link: "mailto:liuqiao@stanford.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/liuqiao_

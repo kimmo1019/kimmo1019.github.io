@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: gzj21@mails.tsinghua.edu.cn
+    link: "mailto:gzj21@mails.tsinghua.edu.cn"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=rDNCke8AAAAJ&hl=zh-CN
