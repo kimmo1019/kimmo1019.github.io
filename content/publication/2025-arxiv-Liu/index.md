@@ -1,10 +1,5 @@
 ---
 title: "An AI-powered Bayesian generative modeling approach for causal inference in observational studies"
-
-# Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Qiao Liu
 - Wing Hung Wong
@@ -56,9 +51,11 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  placement: 1
   caption: ''
-  focal_point: ''
+  focal_point: ""
   preview_only: false
+  filename: ''
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -66,7 +63,25 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2501.00755
 ---
+
+<!-- {{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}} -->
+
+<!-- {{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}} -->
+
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
