@@ -69,6 +69,4 @@ projects: []
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2501.00755
-- name: URL
-  url: https://arxiv.org/abs/2501.00755
 ---
