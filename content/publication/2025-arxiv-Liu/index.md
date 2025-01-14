@@ -71,9 +71,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2501.00755
 ---
 
 <!-- {{% callout note %}}
