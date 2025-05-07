@@ -11,7 +11,7 @@ sections:
       text: |-
         Please contact me if you are interested in joining our lab.
       email: liuqiao@stanford.edu
-      phone: 650-283-5489
+      # phone: 650-283-5489
       address:
         street: 450 Serra Mall
         city: Stanford
