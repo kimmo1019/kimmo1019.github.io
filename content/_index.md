@@ -201,7 +201,7 @@ sections:
             <p>We appreciate the support from the below organizations & agencies.</p>
             <div class="logos">
                 <img src="files/nih.png" alt="Funding Agency 1">
-                <img src="files/Yale.jpg" alt="Funding Agency 2">
+                <img src="files/Yale.png" alt="Funding Agency 2">
                 <!img src="files/ysph.png" alt="Funding Agency 3">
                 <!img src="files/biox.png" alt="Funding Agency 3">
                 <!-- Add more logos as needed -->
