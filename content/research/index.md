@@ -20,4 +20,4 @@ Most recently, inspired by the transformative impact of large language models, w
 
 ## Vision
 
-The next decades will witness data science advance not just through more powerful AI, but also through the principled integration of AI and statistics. By combining the flexibility and scale of modern AI techniques with the statistical rigor, interpretability, our lab is committed to building this bridge, with a dual focus on methodological innovation and scientific impact. We aim to create tools that are not only pratically powerful but also trustworthy, reproducible, and transformative for the biomedical sciences.
+The next decades will witness data science advance not just through more powerful AI, but also through the principled integration of AI and statistics. By combining the flexibility and scale of modern AI techniques with the statistical rigor and interpretability, our lab is committed to building this bridge, with a dual focus on methodological innovation and scientific impact. We aim to create tools that are not only pratically powerful but also trustworthy, reproducible, and transformative for the biomedical sciences.
