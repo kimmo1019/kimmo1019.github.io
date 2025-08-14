@@ -10,19 +10,19 @@ sections:
       title: Contact
       text: |-
         Please contact me if you are interested in joining our lab.
-      email: liuqiao@stanford.edu
+      email: qiao.liu@yale.edu
       # phone: 650-283-5489
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 300 George Street
+        city: New Haven
+        region: CT
+        postcode: '06511'
         country: United States
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '41.30502803948911'
+        longitude: '-72.93112359708842'
+      directions: 
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
