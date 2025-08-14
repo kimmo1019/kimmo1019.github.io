@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Current Research Topics
-        content: Generative AI, Causal Inference, Single Cell, Gene Regulation, High-dimensional Statistics
+        content: Generative AI, Causal Inference, Single Cell, Gene Regulation, Bayesian Computation
         align: left
         background:
           image:

@@ -4,11 +4,11 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 ## Positions Available
 
-- **Postdoctoral Associate**: We are hiring a postdoc with expertise in genomics, LLM, and neurodegenerative disease.
+- **Postdoctoral Associate**: We are hiring a postdoc with great expertise in computational biology, AI, statistics.
 
 <!-- - **Graduate Students**: Graduate students from any department at Yale are highly welcomed to contact Dr. Liu via email directly. -->
 
-- **Undergraduate Students**: Undergraduate students at Yale who are interested in related research areas are highly welcomed to contact Dr. Liu to discuss honor thesis opportunities..
+- **Undergraduate Students**: Undergraduate students at Yale who are interested in related research areas are highly welcomed to contact Dr. Liu to discuss honor thesis opportunities.
 
 - **Visiting Students**: Visiting undergraduate/master/PhD students are highly welcomed, subject to Yale University policies and regulations.
 

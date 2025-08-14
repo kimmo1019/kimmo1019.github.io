@@ -12,18 +12,18 @@ authors:
 - Rui Jiang
 
 date: "2024-10-03T00:00:00Z"
-doi: "10.1101/2024.10.02.616391"
+doi: "10.1038/s41467-025-59780-5"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-03T00:00:00Z"
+publishDate: "2025-05-17T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv, 2024"
+publication: "Nature Communication, 2025"
 publication_short: ""
 
 abstract: Identifying cis-regulatory elements (CREs) within non-coding genomic regions-such as enhancers, silencers, promoters, and insulators-is pivotal for elucidating the intricate gene regulatory mechanisms underlying complex biological traits. The current prevalent sequence-based methods often focus on singular CRE types, limiting insights into cell-type-specific biological implications. Here, we introduce CREATE, a multimodal deep learning model based on the Vector Quantized Variational AutoEncoder framework, designed to extract discrete CRE embeddings and classify multiple CRE classes using genomic sequences, chromatin accessibility, and chromatin interaction data. CREATE excels in accurate CRE identification and exhibits strong effectiveness and robustness. We showcase CREATE's capability in generating comprehensive CRE-specific feature spectrum, offering quantitative and interpretable insights into CRE specificity. By enabling large-scale prediction of CREs in specific cell types, CREATE facilitates the recognition of disease- or phenotype-related biological variabilities of CREs, thereby expanding our understanding of gene regulation landscapes.
@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2024.10.02.616391v1.full.pdf
+url_pdf: https://www.nature.com/articles/s41467-025-59780-5
 url_code: 'https://github.com/cuixj19/CREATE'
 url_dataset: ''
 url_poster: ''
