@@ -22,24 +22,25 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include generative AI, Bayesian statistics, and computational biology.
+bio: My research interests include generative AI, high-dimensional data analysis, and computational biology.
 
 interests:
   - Generative AI
   - Computational Biology
-  - High-dimensional Statistics
+  - Causal Inference
+  - High-dimensional Data Analysis
 
-education:
-  courses:
-    - course: Visiting PhD student
-      institution: Dept. of Statistics, Stanford University
-      year: 2019-2021
-    - course: PhD student
-      institution: Dept. of Automation, Tsinghua University
-      year: 2016-2019
-    - course: Bachelor of Science
-      institution: Shenyuan Honors College, Beihang University
-      year: 2012-2016
+# education:
+#   courses:
+#     - course: Visiting PhD student
+#       institution: Dept. of Statistics, Stanford University
+#       year: 2019-2021
+#     - course: PhD student
+#       institution: Dept. of Automation, Tsinghua University
+#       year: 2016-2019
+#     - course: Bachelor of Science
+#       institution: Shenyuan Honors College, Beihang University
+#       year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:liuqiao@stanford.edu"
+    link: "mailto:qiao.liu@yale.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/liuqiao_
@@ -74,5 +75,6 @@ user_groups:
   - Principal Investigator
 ---
 
-I am an incoming assistant professor at Department of Biostatistics, Yale University. My general research interest lies in the multi-disciplinary area where I have been committed to developing practical statistical and machine learning tools with significance in both statistical theory and applications. In particular, I have been pursuing this research agenda by exploiting the advances in generative artificial intelligence (AI) to tackle several fundamental statistical problems, such as density estimation, causal inference, and unsupervised learning with also broad applications in computational biology.
+I’m an Assistant Professor at the Department of Biostatistics, Yale University. My primary research interest lies in this
+multi-disciplinary area where I have been devoting to developing AI-powered computational frameworks with significance in both statistical theory and applications. In particular, I have been exploiting the advances in generative AI to tackle important high-dimensional statistical problems, such as density estimation, causal inference, with wide applications in computational biology, such as single cell genomics, multiomics data integration, and genomic large language models.
 
