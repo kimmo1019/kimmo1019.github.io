@@ -27,14 +27,14 @@ bio: My research interests include generative AI, Bayesian statistics, and compu
 interests:
   - Bioinformatics
 
-education:
-  courses:
-    - course: PhD student in Bioinformatics
-      institution: Tsinghua University
-      year: 2021-now
-    - course: BSc in Automation
-      institution: Tsinghua University
-      year: 2017-2021
+# education:
+#   courses:
+#     - course: PhD student in Bioinformatics
+#       institution: Tsinghua University
+#       year: 2021-now
+#     - course: BSc in Automation
+#       institution: Tsinghua University
+#       year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

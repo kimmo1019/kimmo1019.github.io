@@ -28,14 +28,14 @@ interests:
   - Computational Biology
   - Single Cell
 
-education:
-  courses:
-    - course: PhD student in Bioinformatics
-      institution: Tsinghua University
-      year: 2019-now
-    - course: BSc in Automation
-      institution: Beihang University
-      year: 2015-2019
+# education:
+#   courses:
+#     - course: PhD student in Bioinformatics
+#       institution: Tsinghua University
+#       year: 2019-now
+#     - course: BSc in Automation
+#       institution: Beihang University
+#       year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
