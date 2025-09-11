@@ -26,6 +26,7 @@ bio: My research interests include generative AI, Bayesian statistics, and compu
 
 interests:
   - Bioinformatics
+  
 
 # education:
 #   courses:
