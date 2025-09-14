@@ -29,6 +29,8 @@ tags:
 - AI
 - Genomics
 - HL
+- MI
+- SCG
 featured: true
 
 # links:

@@ -33,6 +33,8 @@ tags:
 - AI
 - Genomics
 - HL
+- CI
+- LLM
 featured: true
 
 # links:

@@ -43,6 +43,8 @@ summary: Erpai Luo*, <ins>Qiao Liu*,</ins><sup>†</sup>, Minsheng Hao, Lei Wei,
 tags:
 - AI
 - Genomics
+- MI
+- SCG
 
 # Display this page in a list of Featured pages?
 featured: false

@@ -32,6 +32,7 @@ summary: Qiao Liu, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jian
 tags:
 - AI
 - Genomics
+- SCG
 featured: true
 
 # links:

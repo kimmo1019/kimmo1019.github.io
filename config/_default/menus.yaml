@@ -7,6 +7,26 @@ main:
   - name: Research
     url: research
     weight: 10
+  - name: Multiomics Integration
+    parent: Research         # Matches the 'identifier' above to become a child
+    url: /research/multiomics-integration/ # Links to the AI frameworks research page
+    weight: 1   
+  - name: Causal Inference
+    parent: Research         # Matches the 'identifier' above to become a child
+    url: /research/causal-inference/ # Links to the single cell research page
+    weight: 2   
+  - name: Single-cell Genomics
+    parent: Research         # Matches the 'identifier' above to become a child
+    url: /research/single-cell-genomics/ # Links to the single cell research page
+    weight: 3   
+  - name: Pharmacogenomics
+    parent: Research         # Matches the 'identifier' above to become a child
+    url: /research/pharmacogenomics/ # Links to the single cell research page
+    weight: 4 
+  - name: Genomic Foundation Models
+    parent: Research         # Matches the 'identifier' above to become a child
+    url: /research/genomic-foundation-models/ # Links to the single cell research page
+    weight: 5 
   - name: People
     url: people
     weight: 20
