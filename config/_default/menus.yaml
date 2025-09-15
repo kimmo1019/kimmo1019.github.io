@@ -17,16 +17,16 @@ main:
     weight: 2   
   - name: Single-cell Genomics
     parent: Research         # Matches the 'identifier' above to become a child
-    url: /research/single-cell-genomics/ # Links to the single cell research page
+    url: /research/single-cell-genomics/ 
     weight: 3   
   - name: Pharmacogenomics
     parent: Research         # Matches the 'identifier' above to become a child
-    url: /research/pharmacogenomics/ # Links to the single cell research page
+    url: /research/pharmacogenomics/ 
     weight: 4 
   - name: Genomic Foundation Models
     parent: Research         # Matches the 'identifier' above to become a child
-    url: /research/genomic-foundation-models/ # Links to the single cell research page
-    weight: 5 
+    url: /research/genomic-foundation-models/ 
+    weight: 5
   - name: People
     url: people
     weight: 20
