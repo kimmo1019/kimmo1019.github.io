@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the Liu Group @ Yale
+      - title: 👋 Welcome to the Liu Lab @ Yale
         content: We develop AI-powered computational frameworks for biomedical and statistical research
         align: center
         background:

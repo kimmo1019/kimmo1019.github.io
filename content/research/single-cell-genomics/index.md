@@ -11,7 +11,7 @@ sections:
       image:
         filename: single-cell-genomics.png
       text: |
-        We develop tools powered by generative AI that capture cell hetergeneity, cell state transition, cell-cell/environment communications/response etc. Current reserach interests lie on identifying/discovering causal effect/structure to analyze time‑course data, lineage tracin, CRISPR and small‑molecule perturbation screens. Our models provide insights into gene regulation mechanisms by modeling cell development, transition, response, aging, etc.
+        We develop tools powered by generative AI that capture cell hetergeneity, cell state transition, cell-cell/environment communications/response etc. Current reserach interests lie on identifying/discovering causal effect/structure to analyze time‑course data, lineage tracing, CRISPR and small‑molecule perturbation screens. Our models provide insights into gene regulation mechanisms by modeling cell development, transition, response, aging, etc.
 
   - block: portfolio
     id: projects
