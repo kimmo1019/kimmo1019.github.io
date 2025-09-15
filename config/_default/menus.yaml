@@ -27,6 +27,10 @@ main:
     parent: Research         # Matches the 'identifier' above to become a child
     url: /research/genomic-foundation-models/ 
     weight: 5
+  - name: Test
+    parent: Research         # Matches the 'identifier' above to become a child
+    url: /research/test/ 
+    weight: 5
   - name: People
     url: people
     weight: 20
