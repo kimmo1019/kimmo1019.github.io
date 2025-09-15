@@ -1,5 +1,6 @@
 ---
 title: Research Statement
+type: landing
 ---
 
 Artificial intelligence (AI) and statistics are two of the most transformative forces shaping modern data science. AI offers unprecedented power to extract patterns, generate realistic data, and model complex systems, while statistics provides the theoretical rigor and principled frameworks necessary for trustworthy, interpretable, and reproducible scientific discovery. The research interests in my lab lie at the intersection of these two fields, developing AI-powered methodologies that decipher the complex relationships hidden within massive biomedical datasets with the principled rigor of statistical science. Through this interdisciplinary research agenda, our lab aims at tackling fundamental challenges in computational biology and biomedical informatics.
