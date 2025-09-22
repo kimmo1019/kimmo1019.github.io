@@ -32,7 +32,7 @@ sections:
           icon: book-open
           icon_pack: fas
           text: Learn more
-          url: ../research/
+          url: https://ysph.yale.edu/profile/qiao-liu/
 
       - title: A Multidisciplinary Research Lab ❤️ 
         content: 'We are seeking for researchers at all levels to join us!'
