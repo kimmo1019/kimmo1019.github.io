@@ -27,7 +27,7 @@ summary: <ins>Qiao Liu</ins>, Hairong Lv, Rui Jiang. ***ISMB Proceedings/Bioinfo
 tags:
 - AI
 - Genomics
-- HL
+- CB
 featured: true
 
 # links:

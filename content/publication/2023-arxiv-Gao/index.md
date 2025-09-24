@@ -32,6 +32,7 @@ summary: Zijing Gao*, <ins>Qiao Liu*,</ins><sup>†</sup>, Wanwen Zeng, Rui Jian
 tags:
 - AI
 - Genomics
+- CB
 - HL
 - MI
 - LLM

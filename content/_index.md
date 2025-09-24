@@ -145,6 +145,7 @@ sections:
       # To show all content, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the button toolbar, delete the entire `buttons` block.
+      # Tags: AI, Statistics, Comput. Biol., Others
       buttons:
         - name: All
           tag: '*'
@@ -152,12 +153,9 @@ sections:
           tag: AI
         - name: Statistics
           tag: Statistics
-        - name: Genomics
-          tag: Genomics
-        - name: Drug
-          tag: Drug
-        - name: Database
-          tag: Database
+        - name: Computational Biology
+          tag: CB
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

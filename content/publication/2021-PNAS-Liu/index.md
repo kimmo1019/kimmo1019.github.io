@@ -29,7 +29,6 @@ tags:
 - AI
 - Statistics
 - HL
-- CI
 featured: true
 
 # links:

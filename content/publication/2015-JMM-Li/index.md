@@ -26,7 +26,8 @@ abstract: Protein folding is a fundamental topic in molecular biology. Conventio
 # Summary. An optional shortened abstract.
 summary: Bai Li, Mu Lin, <ins>Qiao Liu</ins>, Ya Li & Changjun Zhou. ***Journal of Molecular Modeling***, 2015.
 
-tags: ''
+tags:
+- CB
 
 featured: false
 
