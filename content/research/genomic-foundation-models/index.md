@@ -17,7 +17,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Representative Papers
+      title: Related Papers
       subtitle: 
       text:
       filters:

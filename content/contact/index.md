@@ -11,8 +11,9 @@ sections:
       text: |-
         Please contact me if you are interested in joining our lab.
       email: qiao.liu@yale.edu
+      phone: +1 (203)-737-5110
       address:
-        street: 300 George Street
+        street: 300 George Street, Suite 501
         city: New Haven
         region: CT
         postcode: '06511'

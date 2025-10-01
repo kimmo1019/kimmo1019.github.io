@@ -4,7 +4,7 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 ## Positions Available
 
-- **Postdoctoral Associate**: We are hiring a postdoc with great expertise in computational biology, AI, statistics.
+- **Postdoctoral Associate**: Not available at the moment.
 
 <!-- - **Graduate Students**: Graduate students from any department at Yale are highly welcomed to contact Dr. Liu via email directly. -->
 
@@ -18,5 +18,5 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 ## How to Apply
 
-To apply for a position in our research group, please send your CV, a cover letter, and any relevant documents to Dr. Liu. We look forward to hearing from you!
+To apply for a position in our research group, please send your CV, a cover letter, and any relevant documents to Dr. Liu. We look forward to hearing from you.
 
