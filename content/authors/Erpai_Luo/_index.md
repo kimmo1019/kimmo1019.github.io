@@ -24,19 +24,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include generative AI, Bayesian statistics, and computational biology.
 
-interests:
-  - Computational Biology
-  - Single Cell
-  - Diffusion Models
+# interests:
+#   - Computational Biology
+#   - Single Cell
+#   - Diffusion Models
 
-education:
-  courses:
-    - course: PhD student in Bioinformatics
-      institution: Tsinghua University
-      year: 2023-now
-    - course: BSc in Bioinformatics
-      institution: Tongji University
-      year: 2019-2023
+# education:
+#   courses:
+#     - course: PhD student in Bioinformatics
+#       institution: Tsinghua University
+#       year: 2023-now
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,6 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'lep23@mails.tsinghua.edu.cn'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=3rmSMnYAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/EperLuo
@@ -62,8 +62,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. Principal Investigators/Researchers/Grad Students/Administration/Visitors/Alumni
 user_groups:
-  - test
+  - Group Members
 ---
 
-<!-- I am an incoming assistant professor at Department of Biostatistics, Yale University. My general research interest lies in the multi-disciplinary area where I have been committed to developing practical statistical and machine learning tools with significance in both statistical theory and applications. In particular, I have been pursuing this research agenda by exploiting the advances in generative artificial intelligence (AI) to tackle several fundamental statistical problems, such as density estimation, causal inference, and unsupervised learning with also broad applications in computational biology. -->
+Erpai Luo is an PhD candidate in Department of Automation, Bioinformatic Division at Tsinghua University. His research interests focus on machine learning methods in the single-cell domain, particularly the application of generative models in this field. Additionally, he explores other AI for science topics, such as the application of large language models and agent technologies in the AI for science domain. 
 

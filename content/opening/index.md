@@ -6,7 +6,7 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 - **Postdoctoral Associate**: Not available at the moment.
 
-<!-- - **Graduate Students**: Graduate students from any department at Yale are highly welcomed to contact Dr. Liu via email directly. -->
+- **Ph.D. Students**: I could take Ph.D. students from [Computational Biology and Biomedical Informatics (CBB) Track](https://cbb.yale.edu). Please apply for the program directly.
 
 - **Undergraduate Students**: Undergraduate students at Yale who are interested in related research areas are highly welcomed to contact Dr. Liu to discuss honor thesis opportunities.
 

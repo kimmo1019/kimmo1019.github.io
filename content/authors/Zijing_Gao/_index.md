@@ -24,8 +24,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include generative AI, Bayesian statistics, and computational biology.
 
-interests:
-  - Bioinformatics
+# interests:
+#   - Bioinformatics
   
 
 # education:
@@ -64,8 +64,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. Principal Investigators/Researchers/Grad Students/Administration/Visitors/Alumni
 user_groups:
-  - Graduate Students
+  - Group Members
 ---
 
-<!-- I am an incoming assistant professor at Department of Biostatistics, Yale University. My general research interest lies in the multi-disciplinary area where I have been committed to developing practical statistical and machine learning tools with significance in both statistical theory and applications. In particular, I have been pursuing this research agenda by exploiting the advances in generative artificial intelligence (AI) to tackle several fundamental statistical problems, such as density estimation, causal inference, and unsupervised learning with also broad applications in computational biology. -->
+Zijing Gao is a Ph.D. candidate in the Department of Automation at Tsinghua University, advised by Prof. Rui Jiang and co-advised by Prof. Qiao Liu. His research focuses on developing genome foundation models and elucidating gene regulatory mechanisms. Outside of research, he enjoys badminton and swimming.
 

@@ -24,11 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include generative AI, high-dimensional data analysis, and computational biology.
 
-interests:
-  - Generative AI
-  - Computational Biology
-  - Causal Inference
-  - High-dimensional Data Analysis
+
 
 # education:
 #   courses:
@@ -75,6 +71,12 @@ user_groups:
   - Principal Investigator
 ---
 
-I’m an Assistant Professor at the Department of Biostatistics, Yale University. My primary research interest lies in this
-multi-disciplinary area where I have been devoting to developing AI-powered computational frameworks with significance in both statistical theory and applications. In particular, I have been exploiting the advances in generative AI to tackle important high-dimensional statistical problems, such as density estimation, causal inference, with wide applications in computational biology, such as single cell genomics, multiomics data integration, and genomic large language models.
+I am an Assistant Professor in the Department of Biostatistics at Yale University. I received my Ph.D. from Tsinghua University, where I spent the last two years at Stanford University as a visiting Ph.D. student. I did my postdoc with Prof. Wing Hung Wong at Stanford Statistics. I currently lead the Liu Lab at Yale Biostatistics.
 
+Our research lies at the intersection of AI and statistical science, two transformative forces shaping modern data science. We develop AI-powered computational frameworks grounded in statistical rigor, aiming to provide insights from massive and complex biomedical datasets.
+
+Our recent work focuses on leveraging generative AI to address fundamental challenges in high-dimensional data analysis, including causal inference, unsupervised learning, and Bayesian computation. These methodological innovations are motivated by pressing problems in computational biology, where data are massive, complex, and heterogeneous. We work extensively with single-cell genomics, multi-omics integration, pharmacogenomics, and large-scale clinical datasets to uncover biological insights and inform precision medicine.
+
+Our long-term goal is to bridge modern AI and statistical science to build computational tools that are not only powerful and scalable but also trustworthy, interpretable, and reproducible. By combining the flexibility of AI with the rigor of statistics, we aim to drive transformative advances in biomedical research, enabling discoveries that were previously out of reach.
+
+Outside research, I enjoy hiking, swimming, and travelling to see the world.
