@@ -1,5 +1,5 @@
 ---
-title: "An AI-powered Bayesian generative modeling approach for causal inference in observational studies"
+title: "A Bayesian Generative Modeling Approach for Arbitrary Conditional Inference"
 authors:
 - Qiao Liu
 - Wing Hung Wong
@@ -8,24 +8,25 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
-doi: "10.48550/arXiv.2501.00755"
+date: '2026-01-08'
+doi: "10.48550/arXiv.2601.05355
+"
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-01-01T10:48:59.116372Z'
+publishDate: '2026-01-08T10:48:59.116372Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv, 2025"
+publication: "arXiv, 2026"
 publication_short: ''
 
-abstract: 'Causal inference in observational studies with high-dimensional covariates presents significant challenges. We introduce CausalBGM, an AI-powered Bayesian generative modeling approach that captures the causal relationship among covariates, treatment, and outcome variables. The core innovation of CausalBGM lies in its ability to estimate the individual treatment effect (ITE) by learning individual-specific distributions of a low-dimensional latent feature set (e.g., latent confounders) that drives changes in both treatment and outcome. This approach not only effectively mitigates confounding effects but also provides comprehensive uncertainty quantification, offering reliable and interpretable causal effect estimates at the individual level. CausalBGM adopts a Bayesian model and uses a novel iterative algorithm to update the model parameters and the posterior distribution of latent features until convergence. This framework leverages the power of AI to capture complex dependencies among variables while adhering to the Bayesian principles. Extensive experiments demonstrate that CausalBGM consistently outperforms state-of-the-art methods, particularly in scenarios with high-dimensional covariates and large-scale datasets. Its Bayesian foundation ensures statistical rigor, providing robust and well-calibrated posterior intervals. By addressing key limitations of existing methods, CausalBGM emerges as a robust and promising framework for advancing causal inference in modern applications in fields such as genomics, healthcare, and social sciences.'
+abstract: 'Modern data analysis increasingly requires flexible conditional inference P(X_B | X_A) where (X_A, X_B) is an arbitrary partition of observed variable X. Existing conditional inference methods lack this flexibility as they are tied to a fixed conditioning structure and cannot perform new conditional inference once trained. To solve this, we propose a Bayesian generative modeling (BGM) approach for arbitrary conditional inference without retraining. BGM learns a generative model of X through an iterative Bayesian updating algorithm where model parameters and latent variables are updated until convergence. Once trained, any conditional distribution can be obtained without retraining. Empirically, BGM achieves superior prediction performance with well calibrated predictive intervals, demonstrating that a single learned model can serve as a universal engine for conditional prediction with uncertainty quantification. We provide theoretical guarantees for the convergence of the stochastic iterative algorithm, statistical consistency and conditional-risk bounds. The proposed BGM framework leverages the power of AI to capture complex relationships among variables while adhering to Bayesian principles, emerging as a promising framework for advancing various applications in modern data science. The code for BGM is freely available at https://github.com/liuq-lab/bayesgm'
 
 # Summary. An optional shortened abstract.
-summary: <ins>Qiao Liu</ins> and Wing Hung Wong. arXiv, 2025 (Minor revision at JASA).
+summary: <ins>Qiao Liu</ins> and Wing Hung Wong. arXiv, 2026.
 
 tags:
 - AI
@@ -35,11 +36,11 @@ tags:
 featured: true
 
 # Links
-url_pdf: https://arxiv.org/pdf/2501.00755
-url_code: 'https://github.com/SUwonglab/CausalBGM'
+url_pdf: https://arxiv.org/pdf/2601.05355
+url_code: 'https://github.com/liuq-lab/bayesgm'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://causalbgm.readthedocs.io/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''

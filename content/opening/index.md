@@ -6,7 +6,13 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 - **Postdoctoral Associate**: Not available at the moment.
 
-- **Ph.D. Students**: I could take Ph.D. students from [Computational Biology and Biomedical Informatics (CBB) Track](https://cbb.yale.edu). Please apply for the program directly.
+- **Ph.D. Students**: I am actively recruiting highly motivated Ph.D. students. Prospective students are encouraged to apply through one of the following Yale Ph.D. programs: 
+
+    - [Computational Biology and Biomedical Informatics (CBB) Track](https://cbb.yale.edu)
+
+    - [Human Genome Sciences (HGS) Track](https://medicine.yale.edu/bbs/tracks/human-genome-sciences)
+
+    Applicants whose research interests align with my work are welcome to indicate me as a potential mentor/advisor in their application materials.
 
 - **Undergraduate Students**: Undergraduate students at Yale who are interested in related research areas are highly welcomed to contact Dr. Liu to discuss honor thesis opportunities.
 
