@@ -1,5 +1,5 @@
 ---
-title: Multi-modal Diffusion Model with Dual-Cross-Attention for Multi-Omics Data
+title: A Multi-modal Diffusion Model with Dual-Cross-Attention for Multi-Omics Data
   Generation and Translation
 
 
@@ -39,7 +39,7 @@ doi: '10.1101/2025.02.27.640020v3'
 abstract: 'Single-cell multi-omics data have a high potential for deciphering complex cellular mechanisms. But simultaneously measuring multi-omics data from the same cells is still challenging, which calls for computational methods to integrate data of multiple modalities and generate unobserved data. In this paper, we present scDiffusion-X, a latent diffusion model tailored for this task. The model uses autoencoders to map the multi-modalities into low-dimensional latent spaces, coupled with a Dual-Cross-Attention (DCA) module we invented to learn hidden links between modalities. DCA enables the model to unravel interactions among features of multiple modalities and interpretable integration of multi-omics data. We designed a framework with DCA to extract comprehensive cell-type specific heterogeneous gene regulatory network. scDiffusion-X not only excels in generating multi-omics data under various conditions, but also can translate data between modalities with high fidelity, which cannot be achieved with existing multi-omics data simulators. Extensive benchmarking experiments showed that scDiffusion-X has superior performance in scalability, quality of generated data, and model interpretability compared with existing methods. It can serve as a powerful tool for unlocking the potential of single-cell multi-omics data, dissecting regulatory relationships, predicting perturbation responses, and identifying biomarkers and regulatory patterns.'
 
 # Summary. An optional shortened abstract.
-summary: Erpai Luo, Lei Wei, Minsheng Hao, Xuegong Zhang<sup>†</sup>, <ins>Qiao Liu</ins><sup>†</sup>. bioRxiv 2025 (Nat. Commun. in minor revision)
+summary: Erpai Luo, Lei Wei, Minsheng Hao, Xuegong Zhang<sup>†</sup>, <ins>Qiao Liu</ins><sup>†</sup>. ***Nature Communication*** 2026. (in press)
 
 tags:
 - AI
