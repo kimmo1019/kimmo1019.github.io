@@ -14,7 +14,7 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
     Applicants whose research interests align with my work are welcome to indicate me as a potential mentor/advisor in their application materials.
 
-- **Undergraduate Students**: Undergraduate students at Yale who are interested in related research areas are highly welcomed to contact Dr. Liu to discuss honor thesis opportunities.
+- **Undergraduate Students**: Highly self-motivated undergraduate students with prior research experiences are welcomed to contact Dr. Liu for research opportunities.
 
 - **Visiting Students**: Visiting undergraduate/master/PhD students are highly welcomed, subject to Yale University policies and regulations.
 
@@ -24,5 +24,5 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 ## How to Apply
 
-To apply for a position in our research group, please send your CV, a cover letter, and any relevant documents to Dr. Liu. We look forward to hearing from you.
+To apply for a position in our research group, please send your CV, a cover letter, and official transcript (only for RA and undergrads) to Dr. Liu. We look forward to hearing from you.
 
