@@ -9,10 +9,10 @@ title: A Multi-modal Diffusion Model with Dual-Cross-Attention for Multi-Omics D
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Erpai Luo
-- Qiao Liu
 - Minsheng Hao
 - Lei Wei
 - Xuegong Zhang
+- Qiao Liu
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -20,10 +20,10 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: '2025-01-01'
+date: '2026-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-14T16:46:40.378352Z'
+publishDate: '2026-05-14T16:46:40.378352Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,10 +31,10 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*bioRxiv*'
+publication: '*Nature Communications*'
 publication_short: ''
 
-doi: '10.1101/2025.02.27.640020v3'
+doi: '10.1038/s41467-026-71744-x'
 
 abstract: 'Single-cell multi-omics data have a high potential for deciphering complex cellular mechanisms. But simultaneously measuring multi-omics data from the same cells is still challenging, which calls for computational methods to integrate data of multiple modalities and generate unobserved data. In this paper, we present scDiffusion-X, a latent diffusion model tailored for this task. The model uses autoencoders to map the multi-modalities into low-dimensional latent spaces, coupled with a Dual-Cross-Attention (DCA) module we invented to learn hidden links between modalities. DCA enables the model to unravel interactions among features of multiple modalities and interpretable integration of multi-omics data. We designed a framework with DCA to extract comprehensive cell-type specific heterogeneous gene regulatory network. scDiffusion-X not only excels in generating multi-omics data under various conditions, but also can translate data between modalities with high fidelity, which cannot be achieved with existing multi-omics data simulators. Extensive benchmarking experiments showed that scDiffusion-X has superior performance in scalability, quality of generated data, and model interpretability compared with existing methods. It can serve as a powerful tool for unlocking the potential of single-cell multi-omics data, dissecting regulatory relationships, predicting perturbation responses, and identifying biomarkers and regulatory patterns.'
 
