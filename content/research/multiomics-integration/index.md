@@ -11,7 +11,7 @@ sections:
       image:
         filename: mutiomics-integration.png
       text: |
-        We develop statistical and AI-driven methods to integrate diverse molecular data modalities, including single-cell/bulk-level genetics, transcriptomics, epigenomics, spatial omics signals. Our goal is to build scalable and interpretable computational frameworks that can jointly model heterogeneous multiomics data, recover missing modalities, quantify uncertainty, and reveal regulatory programs across molecular layers.
+        We develop statistical and AI-driven methods to integrate diverse molecular data modalities, including genetics, transcriptomics, epigenomics, radiomics at different scale and resolution. Our goal is to build scalable and interpretable computational frameworks that can jointly model heterogeneous multiomics data, recover missing modalities, quantify uncertainty, and reveal regulatory programs across molecular layers.
 
   - block: portfolio
     id: projects
