@@ -3,7 +3,7 @@ title: "How to improve polygenic prediction from whole-genome sequencing data by
 authors:
 - Wanwen Zeng
 - Hanmin Guo
-- Qiao Liu
+- Qiao_Liu
 - Wing Hung Wong
 date: "2025-06-12T00:00:00Z"
 doi: "10.1073/pnas.2419202122"

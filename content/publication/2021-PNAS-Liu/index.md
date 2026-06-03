@@ -1,7 +1,7 @@
 ---
 title: "Density estimation using deep generative neural networks"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Jiaze Xu
 - Rui Jiang
 - Wing Hung Wong

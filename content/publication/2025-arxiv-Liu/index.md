@@ -1,7 +1,7 @@
 ---
 title: "An AI-powered Bayesian generative modeling approach for causal inference in observational studies"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Wing Hung Wong
 
 # Author notes (such as 'Equal Contribution')

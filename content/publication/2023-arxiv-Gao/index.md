@@ -1,8 +1,8 @@
 ---
 title: "EpiGePT: a pretrained transformer-basedlanguage model for context-specific humanepigenomics"
 authors:
-- Zijing Gao
-- Qiao Liu
+- Zijing_Gao
+- Qiao_Liu
 - Wanwen Zeng
 - Rui Jiang
 - Wing Hung Wong

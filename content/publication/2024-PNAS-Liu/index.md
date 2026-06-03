@@ -1,7 +1,7 @@
 ---
 title: "An encoding generative modeling approach to dimension reduction and covariate adjustment in causal inference with observational studies"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Zhongren Chen
 - Wing Hung Wong
 date: "2024-05-29T00:00:00Z"

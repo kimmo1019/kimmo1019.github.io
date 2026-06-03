@@ -2,7 +2,7 @@
 title: "Mstree: a multispecies coalescent approach for estimating ancestral population size and divergence time during speciation with gene flow"
 authors:
 - Junfeng Liu
-- Qiao Liu
+- Qiao_Liu
 - Qingzhu Yang
 date: "2020-05-04T00:00:00Z"
 doi: "10.1093/gbe/evaa087"

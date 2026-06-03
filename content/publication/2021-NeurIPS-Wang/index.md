@@ -3,7 +3,7 @@ title: "Boost Neural Networks by Checkpoints"
 authors:
 - Feng Wang
 - Guoyizhe Wei
-- Qiao Liu
+- Qiao_Liu
 - Jinxiang Ou
 - Xian Wei
 - Hairong Lv

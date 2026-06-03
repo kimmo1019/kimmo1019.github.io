@@ -4,9 +4,9 @@ authors:
 - Qijin Yin
 - Rui Fan
 - Xusheng Cao
-- Qiao Liu#
-- Rui Jiang#
-- Wanwen Zeng#
+- Qiao_Liu
+- Rui Jiang
+- Wanwen Zeng
 date: "2023-04-21T00:00:00Z"
 doi: "10.15302/J-QB-022-0320"
 

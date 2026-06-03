@@ -5,7 +5,7 @@ authors:
 - Shaoming Song
 - Hongfei Cui
 - Shengquan Chen
-- Qiao Liu
+- Qiao_Liu
 - Rui Jiang
 date: "2019-09-01T00:00:00Z"
 doi: "10.1007/s40484-019-0175-8"

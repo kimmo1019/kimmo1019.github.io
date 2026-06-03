@@ -11,8 +11,7 @@ authors:
 - Zhi-Jie Cao
 - Kaiwen Deng
 - Sumeer Khan
-- Qiao Liu
-- ..
+- Qiao_Liu
 - Angela Oliveira Pisco
 - Jonathan Bloom
 - Smita Krishnaswamy

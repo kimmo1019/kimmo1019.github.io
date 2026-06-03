@@ -3,7 +3,7 @@ title: "DeepHistone: a deep learning approach to predicting histone modification
 authors:
 - Qijin Yin
 - Mengmeng Wu
-- Qiao Liu
+- Qiao_Liu
 - Hairong Lv
 - Rui Jiang
 date: "2019-04-04T00:00:00Z"

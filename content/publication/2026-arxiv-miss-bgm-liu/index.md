@@ -1,7 +1,7 @@
 ---
 title: Missingness-aware Data Imputation via AI-powered Bayesian Generative Modeling
 authors:
-- Qiao Liu
+- Qiao_Liu
 date: '2026-05-13'
 doi: '10.48550/arXiv.2605.01676'
 

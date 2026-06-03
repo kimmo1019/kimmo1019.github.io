@@ -9,7 +9,7 @@ title: 'Deconer: An Evaluation Toolkit for Reference-based Deconvolution Methods
 authors:
 - Wei Zhang
 - Xianglin Zhang
-- Qiao Liu
+- Qiao_Liu
 - Lei Wei
 - Xu Qiao
 - Rui Gao

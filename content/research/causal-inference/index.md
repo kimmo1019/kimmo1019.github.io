@@ -11,7 +11,7 @@ sections:
       image:
         filename: causal-inference.png
       text: |
-        We develop causal inference methodologies tailored for high-dimensional data (e.g., high-dimensional covariates). Our group leverages generative AI models to learn structured representations that preserve underlying causal relationships. These representations enable 1) Identifiability of causal effects in settings with latent confounding. 2) Counterfactual inference to simulate outcomes under hypothetical interventions. 3) Quantification of uncertainty for causal effect estimates, which is critical for robust decision-making in biomedical and healcare applications.
+        We develop causal inference methodologies for high-dimensional biomedical data. By combining modern AI techniques and rigorious statistical inference (e.g., Bayesian inference), we aim to 1) estimate causal effects, especially under high-dimensional covaraites or even hidden confounding variable, 2) identify disease-relevant drivers (gene, regualtory elements, regulatory programs) and support interpretable biological discovery.
 
   - block: portfolio
     id: projects

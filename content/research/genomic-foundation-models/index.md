@@ -11,8 +11,7 @@ sections:
       image:
         filename: genomic-foundation-models.png
       text: |
-        The human genome sequence can be viewed as a ”genome language” that encodes biological information. Our group develop the core technologies of genomic foundation models to gain deep insights into the complex regulatory syntax in
-        DNA sequences and their functional roles. We focus on context-type aware genome foundation models that could provide insights into context-specific gene regulation.
+        We build *context-aware* foundation models for regulatory genomics by leveraging large-scale sequence, epigenomic, transcriptomic, and perturbation datasets. Our goal is to develop context-aware models that can learn generalizable representations of gene regulation, predict molecular phenotypes across cell types and conditions, and enable downstream tasks such as genetic variant effect quantification, regulatory element discovery, and phenotype prediction.
 
   - block: portfolio
     id: projects

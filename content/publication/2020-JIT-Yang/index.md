@@ -2,7 +2,7 @@
 title: "A decentralized system for medical data management via blockchain"
 authors:
 - Qingzhu Yang
-- Qiao Liu
+- Qiao_Liu
 - Hairong Lv
 date: "2020-01-11T00:00:00Z"
 doi: ""

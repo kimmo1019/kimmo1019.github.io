@@ -2,7 +2,7 @@
 title: "DualGCN: a dual graph convolutional network model to predict cancer drug response"
 authors:
 - Tianxing Ma
-- Qiao Liu
+- Qiao_Liu
 - Haochen Li
 - Mu Zhou
 - Rui Jiang

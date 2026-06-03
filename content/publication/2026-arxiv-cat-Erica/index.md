@@ -4,7 +4,7 @@ authors:
   - Erica Stutz
   - Giacomo Marino
   - Daniella Meeker
-  - Qiao Liu
+  - Qiao_Liu
   - Andrew J. Loza
 date: '2026-05-13'
 doi: '10.48550/arXiv.2605.14004'

@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: PhD student (joint w. Prof. Rui Jiang)
+people_rank: 20
 
 # Organizations/Affiliations
 organizations:

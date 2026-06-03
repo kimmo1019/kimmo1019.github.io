@@ -2,7 +2,7 @@
 title: "Automatically structuring on Chinese ultrasound report of cerebrovascular diseases via natural language processing"
 authors:
 - Pengyu Chen
-- Qiao Liu
+- Qiao_Liu
 - Lan Wei
 - Beier Zhao
 - Yin Jia

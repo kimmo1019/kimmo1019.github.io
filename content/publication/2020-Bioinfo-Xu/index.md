@@ -2,7 +2,7 @@
 title: "Quantifying functional impact of non-coding variants with multi-task Bayesian neural network"
 authors:
 - Chencheng Xu
-- Qiao Liu
+- Qiao_Liu
 - Jianyu Zhou
 - Minzhu Xie
 - Jianxing Feng

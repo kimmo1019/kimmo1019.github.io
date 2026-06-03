@@ -5,7 +5,7 @@ authors:
 - Fengge Chang
 - Fnu Naqing
 - Jingxue Xin
-- Qiao Liu
+- Qiao_Liu
 - Wing Hung Wong
 date: "2022-05-16T00:00:00Z"
 doi: "10.1186/s13059-022-02682-2"

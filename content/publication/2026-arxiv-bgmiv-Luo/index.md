@@ -1,8 +1,8 @@
 ---
 title: "BGM-IV: an AI-powered Bayesian generative modeling approach for instrumental variable analysis"
 authors:
-  - Guyue Luo
-  - Qiao Liu
+  - Guyue_Luo
+  - Qiao_Liu
 date: '2026-05-07'
 doi: '10.48550/arXiv.2605.07029'
 publishDate: '2026-05-15T04:21:00Z'

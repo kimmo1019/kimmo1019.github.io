@@ -1,7 +1,7 @@
 ---
 title: "A Bayesian Generative Modeling Approach for Arbitrary Conditional Inference"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Wing Hung Wong
 
 # Author notes (such as 'Equal Contribution')

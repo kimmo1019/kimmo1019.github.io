@@ -1,7 +1,7 @@
 ---
 title: "DeepCDR: a hybrid graph convolutional network for predicting cancer drug response"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Zhiqiang Hu
 - Rui Jiang
 - Mu Zhou

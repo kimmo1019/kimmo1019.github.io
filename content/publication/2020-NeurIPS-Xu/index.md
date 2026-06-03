@@ -2,7 +2,7 @@
 title: "Reinforced molecular optimization with neighborhood-controlled grammars"
 authors:
 - Chencheng Xu
-- Qiao Liu
+- Qiao_Liu
 - Minlie Huang
 - Tao Jiang
 date: "2020-01-11T00:00:00Z"

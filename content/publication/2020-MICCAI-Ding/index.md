@@ -2,7 +2,7 @@
 title: "Feature-enhanced graph networks for genetic mutational prediction using histopathological images in colon cancer"
 authors:
 - Kexin Ding
-- Qiao Liu
+- Qiao_Liu
 - Edward Lee
 - Mu Zhou
 - Aidong Lu

@@ -2,7 +2,7 @@
 title: "HiChIPdb: a comprehensive database of HiChIP regulatory interactions"
 authors:
 - Wanwen Zeng
-- Qiao Liu
+- Qiao_Liu
 - Qijin Yin
 - Rui Jiang
 - Wing Hung Wong

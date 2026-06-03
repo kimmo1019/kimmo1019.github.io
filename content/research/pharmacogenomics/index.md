@@ -11,7 +11,7 @@ sections:
       image:
         filename: pharmacogenomics.png
       text: |
-        We develop AI-powered tools to inform precision therapeutics that connect molecular profiles and causal mechanisms to drug response and resistance at both cell‑line and patient levels, which could assist clinical decision‑making.
+        We study how genetic and molecular variation influences drug response, treatment sensitivity, and disease progression. By integrating genomics, transcriptomics, and clinical or experimental drug-response data, we aim to develop predictive and causal models that can help identify therapeutic targets and support precision medicine.
 
   - block: portfolio
     id: projects

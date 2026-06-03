@@ -1,7 +1,7 @@
 ---
 title: "A sequence-based method to predict the impact of regulatory variants using random forest"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Mingxin Gan
 - Rui Jiang
 date: "2017-03-14T00:00:00Z"

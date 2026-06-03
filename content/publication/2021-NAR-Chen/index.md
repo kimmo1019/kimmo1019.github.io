@@ -2,8 +2,8 @@
 title: "OpenAnnotate: a web server to annotate the chromatin accessibility of genomic regions"
 authors:
 - Shengquan Chen
-- Qiao Liu
-- Xuejian Cui
+- Qiao_Liu
+- Xuejian_Cui
 - Zhanying Feng
 - Chunquan Li
 - Xiaowo Wang

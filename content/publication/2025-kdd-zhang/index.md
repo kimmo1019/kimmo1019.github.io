@@ -9,7 +9,7 @@ title: Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothin
 authors:
 - Zhaoyang Zhang
 - Ziqi Chen
-- Qiao Liu
+- Qiao_Liu
 - Jinhan Xie
 - Hongtu Zhu
 

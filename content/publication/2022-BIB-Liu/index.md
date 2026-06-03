@@ -1,7 +1,7 @@
 ---
 title: "Deep generative modeling and clustering of single cell Hi-C data"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Wanwen Zeng
 - Wei Zhang
 - Sicheng Wang

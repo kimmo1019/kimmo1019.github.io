@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: PhD student (joint w. Prof. Rui Jiang)
+people_rank: 20
 
 # Organizations/Affiliations
 organizations:
@@ -68,4 +69,3 @@ user_groups:
 ---
 
 Zijing Gao is a Ph.D. candidate in the Department of Automation at Tsinghua University, advised by Prof. Rui Jiang and co-advised by Prof. Qiao Liu. His research focuses on developing genome foundation models and elucidating gene regulatory mechanisms. Outside of research, he enjoys badminton and swimming.
-

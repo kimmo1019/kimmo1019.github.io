@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: PhD student (joint w. Prof. Xuegong Zhang)
+people_rank: 20
 
 # Organizations/Affiliations
 organizations:
@@ -42,7 +43,7 @@ bio: My research interests include generative AI, Bayesian statistics, and compu
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lep23@mails.tsinghua.edu.cn'
+    link: 'mailto:lep23@mails.tsinghua.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=3rmSMnYAAAAJ
@@ -66,4 +67,3 @@ user_groups:
 ---
 
 Erpai Luo is an PhD candidate in Department of Automation, Bioinformatic Division at Tsinghua University. His research interests focus on machine learning methods in the single-cell domain, particularly the application of generative models in this field. Additionally, he explores other AI for science topics, such as the application of large language models and agent technologies in the AI for science domain. 
-

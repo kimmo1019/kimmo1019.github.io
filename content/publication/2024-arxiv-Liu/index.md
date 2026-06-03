@@ -1,7 +1,7 @@
 ---
 title: "Leveraging genomic large language models to enhance causal genotype-brain-clinical pathways in Alzheimer's disease"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Wanwen Zeng
 - Hongtu Zhu
 - Lexin Li

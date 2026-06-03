@@ -1,7 +1,7 @@
 ---
 title: "hicGAN infers super resolution Hi-C data with generative adversarial networks"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Hairong Lv
 - Rui Jiang
 date: "2019-07-05T00:00:00Z"

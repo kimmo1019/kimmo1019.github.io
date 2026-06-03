@@ -1,7 +1,7 @@
 ---
 title: "Simultaneous deep generative modelling and clustering of single-cell genomic data"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Shengquan Chen
 - Rui Jiang
 - Wing Hung Wong

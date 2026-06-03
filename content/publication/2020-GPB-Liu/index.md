@@ -1,7 +1,7 @@
 ---
 title: "DeepCAGE: Incorporating Transcription Factors in Genome-Wide Prediction of Chromatin Accessibility"
 authors:
-- Qiao Liu
+- Qiao_Liu
 - Kui Hua
 - Xuegong Zhang
 - Wing Hung Wong

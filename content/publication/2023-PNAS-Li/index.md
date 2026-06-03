@@ -3,10 +3,9 @@ title: "Comprehensive tissue deconvolution of cell-free DNA by deep learning for
 authors:
 - Shuo Li
 - Xiaohui Ni
-- Qiao Liu
+- Qiao_Liu
 - Wenyuan Li
 - Mary L. Stackpole
-- ..
 - Wing Hung Wong
 - Steven M. Dubinett SDubinett
 - Xianghong Jasmine Zhou

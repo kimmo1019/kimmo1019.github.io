@@ -1,7 +1,7 @@
 ---
 title: "Chromatin accessibility prediction via a hybrid deep convolutional neural network "
 authors:
-- Qiao Liu
+- Qiao_Liu
 -  Fei Xia
 - Qijin Yin
 - Rui Jiang

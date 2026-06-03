@@ -1,13 +1,13 @@
 ---
 title: "CREATE: cell-type-specific cis-regulatory elements identification via discrete embedding"
 authors:
-- Xuejian Cui
+- Xuejian_Cui
 - Qijin Yin
-- Zijing Gao
+- Zijing_Gao
 - Zhen Li
 - Xiaoyang Chen
 - Shengquan Chen
-- Qiao Liu
+- Qiao_Liu
 - Wanwen Zeng
 - Rui Jiang
 

@@ -10,7 +10,7 @@ authors:
 - Chuanqi Lao
 - Pengfei Zheng
 - Hongyang Chen
-- Qiao Liu
+- Qiao_Liu
 - Feng An
 - Zhao Li
 

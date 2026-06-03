@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: Postdoctoral Associate
+people_rank: 10
 
 # Organizations/Affiliations
 organizations:
@@ -55,4 +56,3 @@ user_groups:
 ---
 
 Haochen earned his Bachelor of Electronic Engineering degree at Xidian University, where he focused on signal processing and computational techniques. He then pursued his Ph.D. in Control Science and Engineering at Tsinghua University under the guidance of Dr. Xiaowo Wang. His doctoral research concentrated on developing deep generative models for designing genetic elements, with a focus on synthetic biology applications. He also has previous research experience in DNA sequence generation with artificial intelligence during his time at the Shenzhen Institute of Advanced Technology, and computational analysis of single-cell perturbation data at Cartabio Technology. Haochen joined Yale University as a Postdoctoral Associate, and he is currently working on generative models on computational biology.
-

@@ -3,7 +3,7 @@ title: "Protein folding optimization based on 3D off-lattice model via an improv
 authors:
 - Bai Li
 - Mu Lin
-- Qiao Liu
+- Qiao_Liu
 - Ya Li
 - Changjun Zhou 
 date: "2015-09-17T00:00:00Z"

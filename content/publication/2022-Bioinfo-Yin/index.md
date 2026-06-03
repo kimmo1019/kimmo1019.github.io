@@ -2,7 +2,7 @@
 title: "scGraph: a graph neural network-based approach to automatically identify cell types"
 authors:
 - Qijin Yin
-- Qiao Liu
+- Qiao_Liu
 - Zhuoran Fu
 - Rui Jiang
 date: "2022-04-08T00:00:00Z"

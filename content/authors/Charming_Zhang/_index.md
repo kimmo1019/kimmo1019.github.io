@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: Master student
+people_rank: 30
 
 # Organizations/Affiliations
 organizations:
