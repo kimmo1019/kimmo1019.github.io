@@ -4,7 +4,7 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 ## Positions Available
 
-- **Postdoctoral Associate**: Not available at the moment.
+- **Postdoctoral Associate**: We're currently looking for a postdoc to join our group working in generative AI and computational genomics. Send me an email if you are passionate about advancing techniques in AI and genomics!
 
 - **Ph.D. Students**: I am actively recruiting highly motivated Ph.D. students. Prospective students are encouraged to apply through one of the following Yale Ph.D. programs: 
 
