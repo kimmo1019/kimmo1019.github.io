@@ -191,8 +191,9 @@ sections:
         <div class="support-funding">
             <p>We appreciate the support from the below organizations & agencies.</p>
             <div class="logos">
-                <img src="files/nih.png" alt="Funding Agency 1">
-                <img src="files/yale.png" alt="Funding Agency 2">
+                <img src="files/nih.png" alt="NIH">
+                <img src="files/yale.png" alt="Yale">
+                <img src="files/ysph_logo.png" alt="Yale School of Public Health">
             </div>
         </div>
         
