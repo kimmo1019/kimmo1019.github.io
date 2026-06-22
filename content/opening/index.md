@@ -20,7 +20,7 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 - **Visiting Students**: Visiting undergraduate/master/PhD students are highly welcomed, subject to Yale University policies and regulations.
 
-- **Research Assistants**: We have openings for research assistants who are interested in gaining hands-on research experience. This is a great opportunity for undergraduate or master's students who are looking to kickstart their research careers.
+- **Research Assistants**: We have openings for part-time RAs who are interested in gaining hands-on research experience. This is a great opportunity for undergraduate or master's students who are looking to kickstart their research careers.
 
 ## How to Apply
 
