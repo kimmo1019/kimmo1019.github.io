@@ -10,6 +10,7 @@ sections:
       title: Lab News
       subtitle: ''
       text: |-
+        * **2026.07** Yushi Huang joined our lab as a visiting undergrad, welcome!
         * **2026.06** Linxi He joined our lab as a summer research intern, welcome!
         * **2026.05** Our work [BGM-IV](https://arxiv.org/abs/2605.07029) on instrumental variable (IV)-based causal inference with Bayesian generative modeling is on arXiv. Try our software [here](https://github.com/liuq-lab/BGM-IV).
         * **2026.05** Our work [MissBGM](https://arxiv.org/abs/2605.01676) on missing data imputation with Bayesian generative modeling is on arXiv. Try our software [here](https://github.com/liuq-lab/MissBGM).
