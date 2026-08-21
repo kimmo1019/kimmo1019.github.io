@@ -4,6 +4,10 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 ## Positions Available
 
+- **Full-time Research Assistant**: <span style="color:#E53E3E; font-weight:bold;">We are actively recruiting a full-time Research Assistant!</span> We're looking for a motivated RA to join our group. This is an excellent opportunity for recent graduates who plan to pursue a Ph.D. and want to gain solid research experience. Send me an email if you are interested!
+
+  <a href="/files/ra_recruit.pdf" target="_blank" style="display:inline-block; margin-top:6px; padding:8px 18px; background-color:#4da3ff; color:#fff; font-weight:bold; border-radius:5px; text-decoration:none; font-size:0.95em; letter-spacing:0.02em;">View Recruitment Advertisement (PDF)</a>
+
 - **Postdoctoral Associate**: <span style="color:#E53E3E; font-weight:bold;">We are actively recruiting a Postdoctoral Associate!</span> We're looking for a postdoc to join our group working in generative AI and computational genomics. Send me an email if you are passionate about advancing techniques in AI and genomics!
 
   <a href="/files/postdoc_recruit.pdf" target="_blank" style="display:inline-block; margin-top:6px; padding:8px 18px; background-color:#4da3ff; color:#fff; font-weight:bold; border-radius:5px; text-decoration:none; font-size:0.95em; letter-spacing:0.02em;">View Recruitment Advertisement (PDF)</a>
