@@ -111,6 +111,10 @@ extensions:
   academicons:
     enable: true
 
+# Extra JS appended to the Hugo Blox bundle (files in assets/js/).
+plugins_js:
+  - clickable-parent-dropdowns
+
 # Citation style
 
 publications:
