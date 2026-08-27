@@ -57,3 +57,30 @@ nav .navbar-nav > .nav-item > .nav-link,
   font-weight: 500;     // Optional: make it a bit bolder
   letter-spacing: 0.01em; // Optional: add a little spacing for clarity
 }
+
+/* Keep topic links visible in the mobile hamburger when the parent tab is a real link. */
+@media (max-width: 991.98px) {
+  #navbar-content .navbar-nav > .nav-item.dropdown > .dropdown-menu {
+    display: block;
+    position: static;
+    float: none;
+    width: auto;
+    margin: 0;
+    padding-left: 1rem;
+    border: 0;
+    box-shadow: none;
+    background: transparent !important;
+  }
+}
+
+/* Research overview schematic */
+.research-vision-figure {
+  margin: 1.25rem 0 0;
+  width: 100%;
+}
+
+.research-vision-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}

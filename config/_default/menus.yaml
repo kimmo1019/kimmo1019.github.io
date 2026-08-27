@@ -5,7 +5,8 @@
 
 main:
   - name: Research
-    url: research
+    identifier: Research
+    url: /research/
     weight: 10
   - name: Multiomics Integration
     parent: Research         # Matches the 'identifier' above to become a child

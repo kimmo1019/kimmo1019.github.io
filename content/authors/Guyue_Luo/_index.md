@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student
+role: "Current Position: Data Scientist at Alibaba"
 people_rank: 30
 
 # Organizations/Affiliations
@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. Principal Investigators/Researchers/Grad Students/Administration/Visitors/Alumni
 user_groups:
-  - Group Members
+  - Lab Alumni
 ---
 
 Guyue Luo is an M.S. candidate in Biostatistics (Data Science Pathway) at Yale University, advised by Prof. Qiao Liu. His research centers on causal inference and Causal AI/ML. He is also interested in marketplace applications of causal methods and small-sample learning. Outside of research, he enjoys hiking and is training for the Grand Teton Crest Trail.

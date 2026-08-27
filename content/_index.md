@@ -70,6 +70,8 @@ sections:
 
         At the intersection of AI, statistics, and biology, our lab is dedicated to developing novel computational frameworks for unraveling the complexities of biomedical data, paving the way for groundbreaking discoveries in computational biology and biomedical informatics.
 
+        Read more about our research vision and ongoing directions on the [Research](/research/) page.
+
   # - block: collection
   #   id: posts
   #   content:

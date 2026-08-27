@@ -1,12 +1,41 @@
 ---
-title: Research Statement
+title: Research Overview
 type: landing
+
+sections:
+  - block: markdown
+    content:
+      title: Research Vision
+      text: |-
+        Our long-term goal is to bridge **modern AI** and **statistical science** to build computational tools that are not only **powerful** and **scalable** but also **trustworthy**, **interpretable**. By combining the flexibility of AI with the rigor of statistics, we aim to drive transformative advances in biomedical research, enabling discoveries that were previously out of reach.
+
+        <figure class="research-vision-figure">
+          <img src="/files/Liu_Lab_Research_Vision.svg" alt="Liu Lab research vision: connecting genetic variation to phenotype through context-aware genomic foundation models, generative AI for single-cell multiomics, and trustworthy causal AI">
+        </figure>
+    design:
+      columns: '2'
+
+  - block: markdown
+    content:
+      title: Research Overview
+      text: |-
+        Our research aims at understanding **how genetic variation shapes gene regulation, cellular states, and ultimately human disease**. A major challenge is that these processes are highly context dependent, varying across cell types, tissues, individuals, space, and time, and many of the molecular states connecting genotype to phenotype are only partially observed. We develop AI-powered statistical and computational methods for **causal regulatory genomics** to uncover these hidden regulatory mechanisms.
+
+        Our work spans three complementary directions. **Context-aware genomic foundation models**, including EpiGePT ([Gao et al., Genome Biol. 2024](https://doi.org/10.1186/s13059-024-03449-7)) and RegFM ([Gao et al., bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.08.17.744355v1)), learn transferable regulatory knowledge from large-scale genomic data. **Generative AI for single-cell and multiomics**, including scDiffusion-X ([Luo et al., Nat. Commun. 2026](https://www.nature.com/articles/s41467-026-71744-x)), scMTG ([Cui et al., bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.06.04.730241v1)), scDEC ([Liu et al., Nat. Mach. Intell. 2021](https://www.nature.com/articles/s42256-021-00333-y)), and MultiFlow ([Wang et al., bioRxiv 2026](https://www.biorxiv.org/content/10.64898/2026.08.20.746112v1)), reconstructs and predicts cellular states across modalities, biological contexts, time, and perturbations. **Trustworthy causal AI**, including Roundtrip ([Liu et al., PNAS 2021](https://www.pnas.org/doi/10.1073/pnas.2101344118)), CausalEGM ([Liu et al., PNAS 2024](https://www.pnas.org/doi/10.1073/pnas.2322376121)), CausalBGM ([Liu et al., J. Am. Stat. Assoc. 2026](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2654227)), and BGM ([Liu et al., arXiv](https://arxiv.org/abs/2601.05355)), aims to move beyond prediction toward causal effect estimation, uncertainty quantification, and mechanistic interpretation.
+
+        Together, these directions form an integrated framework for connecting **genetic variation → regulatory effects → gene programs → cellular responses → phenotype**, with the broader goal of turning increasingly large and complex genomic datasets into interpretable knowledge about human biology and disease.
+    design:
+      columns: '2'
+
+  - block: markdown
+    content:
+      title: Research Areas
+      text: |-
+        - [Multiomics Integration](/research/multiomics-integration/)
+        - [Causal Inference](/research/causal-inference/)
+        - [Single-cell Genomics](/research/single-cell-genomics/)
+        - [Pharmacogenomics](/research/pharmacogenomics/)
+        - [Genomic Foundation Models](/research/genomic-foundation-models/)
+    design:
+      columns: '2'
 ---
-
-Artificial intelligence (AI) and statistics are two of the most transformative forces shaping modern data science. AI offers unprecedented power to extract patterns, generate realistic data, and model complex systems, while statistics provides the theoretical rigor and principled frameworks necessary for trustworthy, interpretable, and reproducible scientific discovery. The research interests in my lab lie at the intersection of these two fields, developing AI-powered methodologies that decipher the complex relationships hidden within massive biomedical datasets with the principled rigor of statistical science. Through this interdisciplinary research agenda, our lab aims at tackling fundamental challenges in computational biology and biomedical informatics.
-
-Our overarching research goal in our lab is to create next-generation computational frameworks that are computationally efficient, theoretically sound, and powered by advances in generative AI. To this end, we have been developing novel frameworks to address challenges in high-dimensional data analysis, causal inference, and Bayesian computation, with a strong focus on impactful applications in computational biology. We work with diverse and complex datasets, from multiomics, pharmacogenomics to large-scale clinical data, to address pressing questions in biomedicine.
-
-## Vision
-
-The next decades will witness data science advance not just through more powerful AI, but also through the principled integration of AI and statistics. By combining the flexibility and scale of modern AI techniques with the statistical rigor and interpretability, our lab is committed to building this bridge, with a dual focus on methodological innovation and scientific impact. We aim to create tools that are not only pratically powerful but also trustworthy, reproducible, and transformative for the biomedical sciences.

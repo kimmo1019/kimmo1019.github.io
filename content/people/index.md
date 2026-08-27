@@ -14,8 +14,8 @@ sections:
           - Graduate Students
           - Administration
           - Visitors
-          - Alumni
           - Group Members
+          - Lab Alumni
       sort_by: Params.people_rank
       sort_ascending: true
     design:

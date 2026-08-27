@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student (joint w. Prof. Rui Jiang)
+role: "Current Position: Assistant Professor at HIT"
 people_rank: 20
 
 # Organizations/Affiliations
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. Principal Investigators/Researchers/Grad Students/Administration/Visitors/Alumni
 user_groups:
-  - Group Members
+  - Lab Alumni
 ---
 
 Xuejian Cui is a PhD graduate in Department of Automation at Tsinghua University, advised by Prof. Rui Jiang and Prof. Qiao Liu. His research focuses on AI-powered computational methods for the unified representation and precise interpretation of biological big data, such as single-cell time-series data analysis and annotation of genomic regulatory elements.

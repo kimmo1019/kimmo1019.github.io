@@ -10,8 +10,12 @@ sections:
       title: Lab News
       subtitle: ''
       text: |-
+        * **2026.08** Jilai Fan joined our lab as a research assistant, welcome!
+        * **2026.08** Our work on coupled flow matching ([MultiFlow](https://www.biorxiv.org/content/10.64898/2026.08.20.746112v1)) for predicting single-cell multiomic perturbation responses is on bioRxiv. Try our software [here](https://github.com/liuq-lab/MultiFlow).
+        * **2026.08** Our work on a context-aware foundation model ([RegFM](https://www.biorxiv.org/content/10.64898/2026.08.17.744355v1)) for human transcriptional regulation is on bioRxiv. Try our software [here](https://github.com/ZjGaothu/RegFM).
         * **2026.07** Yushi Huang joined our lab as a visiting undergrad, welcome!
         * **2026.06** Linxi He joined our lab as a summer research intern, welcome!
+        * **2026.06** Our work on single-cell Markov transition generators ([scMTG](https://www.biorxiv.org/content/10.64898/2026.06.04.730241v1)) for reconstructing temporal dynamics is on bioRxiv. Try our software [here](https://github.com/liuq-lab/scMTG).
         * **2026.05** Our work [BGM-IV](https://arxiv.org/abs/2605.07029) on instrumental variable (IV)-based causal inference with Bayesian generative modeling is on arXiv. Try our software [here](https://github.com/liuq-lab/BGM-IV).
         * **2026.05** Our work [MissBGM](https://arxiv.org/abs/2605.01676) on missing data imputation with Bayesian generative modeling is on arXiv. Try our software [here](https://github.com/liuq-lab/MissBGM).
         * **2026.04** Our work [scDiffusion-X](https://www.nature.com/articles/s41467-026-71744-x) on single cell multiomics generation and translation is published at 

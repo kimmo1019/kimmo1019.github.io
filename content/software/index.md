@@ -4,6 +4,9 @@ title: Academic Software
 
 Our lab is committed to developing open-source softwares to advance data science research. Below are some of the software projects we have developed with Python and/or R packages. Checkout out group [Github page](https://github.com/liuq-lab).
 
+- **MultiFlow**: Coupled flow matching for predicting single-cell multiomic perturbation responses [[Github](https://github.com/liuq-lab/MultiFlow)].
+- **RegFM**: An interpretable context-aware foundation model for human transcriptional regulation [[Github](https://github.com/ZjGaothu/RegFM)].
+- **scMTG**: Reconstructing single-cell temporal dynamics with Markov transition generators [[Github](https://github.com/liuq-lab/scMTG)].
 - **BGM-IV**: Instrumental variable-based causal inference with Bayesian generative modeling [[Github](https://github.com/liuq-lab/BGM-IV)].
 - **MissBGM**: Missingness-aware data imputation with Bayesian generative modeling [[Github](https://github.com/liuq-lab/MissBGM)][[Pypi](https://pypi.org/project/missbgm/)].
 - **BGM**: Bayesian generative modeling (BGM) framework for arbitrary inference [[Github](https://github.com/liuq-lab/bayesgm)][[Pypi](https://pypi.org/project/bayesgm/)][[Website](https://bayesgm.readthedocs.io/)].
