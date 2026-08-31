@@ -72,8 +72,8 @@ user_groups:
   - Group Members
 ---
 
-I am an Assistant Professor in the Department of Biostatistics, leading the Liu Lab at Yale Biostatistics.
+I am an Assistant Professor of Biostatistics, leading the Liu Lab at Yale Biostatistics.
 
-You can learn more about our research on my [Yale profile](https://ysph.yale.edu/profile/qiao-liu/).
+You can find more information about me on [Yale profile](https://ysph.yale.edu/profile/qiao-liu/).
 
-Outside research, I enjoy swimming, hiking, and traveling to explore the world. I recently started learning tennis!
+Outside research, I enjoy swimming, tennis, hiking, and traveling to explore the world!
