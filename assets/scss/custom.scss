@@ -109,6 +109,7 @@ nav .navbar-nav > .nav-item > .nav-link,
       grid-template-columns: repeat(3, minmax(0, 1fr));
     }
   }
-  .alumni-list h3 { margin: 0 0 0.2rem; font-size: 1rem; }
+  // Match the native People block's name weight; links share the theme color.
+  .alumni-list h3 { margin: 0 0 0.2rem; font-size: 1rem; font-weight: 300; }
   .alumni-list p { margin: 0; font-size: 0.9rem; line-height: 1.55; }
 }
