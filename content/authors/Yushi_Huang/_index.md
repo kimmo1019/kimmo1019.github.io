@@ -25,7 +25,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Yushi Huang is an undergraduate student in Statistics and Finance at East China Normal University. Her research interests lie in causal inference, machine learning, and statistical methods for biomedical data. She is particularly interested in AI-driven approaches for single-cell genomics, computational biology, and precision medicine.
 
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:yushi.huang@yale.edu"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

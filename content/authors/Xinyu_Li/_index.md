@@ -25,7 +25,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Hi! I'm Xinyu Li, a first-year student in Computational Biology and Biomedical Informatics (CBB). My research interests include single-cell analysis, multi-omics integration, and more broadly, interdisciplinary questions at the intersection of computer science, statistics, and biology. I'm especially interested in how computational approaches can help us better understand complex biological systems. Outside of research, I enjoy drawing, journaling, hiking, and traveling!
 
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:xinyu.li@yale.edu"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

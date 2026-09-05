@@ -84,3 +84,31 @@ nav .navbar-nav > .nav-item > .nav-link,
   width: 100%;
   height: auto;
 }
+
+/* Keep the native People block; scope the 1/2/4-column layout to this section. */
+#lab-members {
+  .section-heading h1 { font-size: 1.5rem; }
+  .people-person { margin-bottom: 2rem; }
+  @media (min-width: 576px) {
+    .people-person { width: 50%; }
+  }
+  @media (min-width: 992px) {
+    .people-person { width: 20%; }
+  }
+}
+
+#lab-alumni {
+  background: transparent;
+  .alumni-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem 2rem;
+
+    @media (min-width: 992px) {
+      // Change 2 to set the number of alumni per desktop row.
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+  .alumni-list h3 { margin: 0 0 0.2rem; font-size: 1rem; }
+  .alumni-list p { margin: 0; font-size: 0.9rem; line-height: 1.55; }
+}

@@ -1,0 +1,16 @@
+{{/* Alumni details live in content/authors/<Name>/_index.md. */}}
+{{ $block := .wcBlock }}
+{{ $alumni := where (where site.Pages "Section" "authors") "Params.user_groups" "intersect" $block.content.user_groups }}
+
+{{ with $alumni }}
+  {{ with $block.content.title }}<h2 class="mb-4 text-center">{{ . | markdownify }}</h2>{{ end }}
+  <div class="alumni-list">
+    {{ range sort . "Params.alumni_rank" "asc" }}
+      <article class="mb-4">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ with .Params.role }}<p>{{ . | markdownify }}</p>{{ end }}
+        {{ with .Params.current_position }}<p>Current: {{ . | markdownify }}</p>{{ end }}
+      </article>
+    {{ end }}
+  </div>
+{{ end }}
