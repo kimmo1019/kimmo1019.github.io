@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student
+role: BIS Master student
 people_rank: 30
 
 # Organizations/Affiliations
