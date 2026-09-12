@@ -28,4 +28,4 @@ Welcome to our research group! We are a dynamic and collaborative team of resear
 
 ## How to Apply
 
-To apply for a position in our research group, please send your CV, a cover letter, and official transcript (undergrads and RA) to Dr. Liu. We look forward to hearing from you.
+To apply for a position in our research group, please send your CV, a cover letter, and official undergrads transcript to Dr. Liu. We look forward to hearing from you.
