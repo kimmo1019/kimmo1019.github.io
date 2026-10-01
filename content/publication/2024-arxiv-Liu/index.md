@@ -1,16 +1,18 @@
 ---
-title: "Leveraging genomic large language models to enhance causal genotype-brain-clinical pathways in Alzheimer's disease"
+title: "Leveraging genomic foundation models to identify genotype-brain-clinical pathways in Alzheimer's disease"
 authors:
 - Qiao_Liu
-- Wanwen Zeng
+- Zhaoyang Zhang
+- Haochen_Wang
+- Heping Zhang
 - Hongtu Zhu
 - Lexin Li
 - Wing Hung Wong
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-10-04T00:00:00Z"
-doi: "10.1101/2024.10.03.24314824"
+date: "2026-01-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-10-04T00:00:00Z"
@@ -21,13 +23,13 @@ publishDate: "2024-10-04T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "medRxiv, 2024"
+publication: "medRxiv, 2026"
 publication_short: ""
 
 abstract: Genome-wide association studies (GWAS) have identified numerous genetic variants associated with Alzheimer's disease (AD) phenotypes. However, how these variants contribute to the etiology of AD remains largely elusive. Recent advances in genomic large language models (LLMs) have revolutionized regulatory genomic prediction tasks, offering new opportunities to interpret the genetic variation observed in personal genome. In this study, we propose epiBrainLLM, a novel computational framework that leverages genomic LLM to enhance our understanding of the causal pathways from genotypes to brain measures to AD-related clinical phenotypes. Our framework will first convert the personal DNA sequence into a diverse set of genomic and epigenomic features using a pretrained genomic LLM and then use these features to further predict phenotypes. Across various experimental settings, our results demonstrate that incorporating pretrained genomic LLMs significantly improves association analysis compared to using genotype information alone. We conclude that our proposed framework provides a novel perspective for understanding the regulatory mechanisms underlying the AD disease etiology, potentially offering insights into complex disease mechanisms beyond AD.
 
 # Summary. An optional shortened abstract.
-summary: <ins>Qiao Liu*</ins>, Wanwen Zeng*, Hongtu Zhu, Lexin Li, Wing Hung Wong. medRxiv, 2024.
+summary: <ins>Qiao Liu<sup>†,*</sup></ins>, Zhaoyang Zhang<sup>†</sup>, Haochen Wang, Heping Zhang, Hongtu Zhu, Lexin Li<sup>*</sup>, Wing Hung Wong<sup>*</sup>. medRxiv, 2026.
 
 tags:
 - AI
@@ -37,10 +39,10 @@ tags:
 - LLM
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.medrxiv.org/content/10.1101/2024.10.03.24314824v1.full.pdf
+links:
+- name: ""
+  url: "https://doi.org/10.1101/2024.10.03.24314824"
+url_pdf: ''
 url_code: 'https://github.com/SUwonglab/AD-genomicLLM'
 url_dataset: ''
 url_poster: ''

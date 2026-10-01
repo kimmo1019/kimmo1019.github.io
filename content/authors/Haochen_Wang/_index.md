@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haocheng Wang
+title: Haochen Wang
 
 # Full name (for SEO)
 first_name: Haochen
