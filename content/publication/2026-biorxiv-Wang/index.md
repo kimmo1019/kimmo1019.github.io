@@ -7,6 +7,12 @@ authors:
 - "Mengran Zhang"
 - Xiaoming_Nie
 - Qiao_Liu
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 
 date: '2026-08-20'
 doi: '10.64898/2026.08.20.746112'
@@ -21,7 +27,7 @@ publication_short: ''
 
 abstract: 'Predicting cellular responses to perturbation requires resolving coordinated changes across molecular layers, yet most single-cell perturbation models focus on transcriptional responses alone. Here we present MultiFlow, a coupled flow-matching framework that unifies generation and perturbation prediction of paired gene expression and chromatin accessibility. By learning coupled RNA-ATAC flows conditioned on perturbation and control-derived cellular-state representation, MultiFlow enables prediction of coordinated multiomic responses in unseen cellular contexts. Across multiomic generation benchmarks, MultiFlow accurately reproduced paired RNA-ATAC states and their population distributions. In multiomic perturbation benchmarks, MultiFlow achieved the strongest overall performance in predicting both gene-expression and chromatin-accessibility responses, outperforming competing modality-specific perturbation-prediction methods. Joint multiomic modeling further preserved perturbation-induced RNA-ATAC coordination, including concordant peak-gene effects and cross-modal cellular neighborhood structure. These results establish coupled flow matching as a unified generative framework for modeling paired multiomic states and predicting coordinated perturbation responses across cellular contexts. Code and tutorial for MultiFlow are available at https://github.com/liuq-lab/MultiFlow.'
 
-summary: Haochen Wang, Charming Zhang, Mengran Zhang, Xiaoming Nie, <ins>Qiao Liu*</ins>. bioRxiv, 2026.
+summary: Haochen Wang, Charming Zhang, Mengran Zhang, Xiaoming Nie, <ins>Qiao Liu<sup>&#42;</sup></ins>. bioRxiv, 2026.
 
 tags:
 - AI

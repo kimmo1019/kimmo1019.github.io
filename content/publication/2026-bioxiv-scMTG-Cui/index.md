@@ -8,6 +8,13 @@ authors:
 - "Rui Jiang"
 - "Wing Hung Wong"
 - Qiao_Liu
+author_notes:
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
 
 
 date: '2026-06-04'
@@ -23,7 +30,7 @@ publication_short: ''
 
 abstract: 'Single-cell time-series data offer a unique opportunity to study how cell states emerge, evolve, and diversify over time. However, cells are destructively measured across time points and individual cells cannot be directly tracked, making it challenging to reconstruct cell-state transitions and uncover the dynamic regulatory programs. Existing methods are predominantly based on optimal transport and typically require predefined low-dimensional representations, which can limit scalability, flexibility, and mechanistic interpretability. Here we present scMTG, a single-cell Markov transition generative framework that jointly learns cell representations and temporal cell-state transitions from unpaired single-cell time-series data. In a series of experiments, scMTG demonstrates superior performance in interpolating held-out missing-time-point data and inferring cross-time-point transition matrices, compared with state-of-the-art methods. More importantly, the learned Markov transition generator provides an interpretable framework for identifying the molecular programs that drive cell-state changes, enabling characterization of cell fate decisions and construction of time-resolved regulatory networks. Together, scMTG provides a unified generative framework for reconstructing cellular dynamics and uncovering regulatory programs that shape development, differentiation, and disease progression.'
 
-summary: Xuejian Cui, Haochen Wang, Zijing Gao, Rui Jiang*, Wing Hung Wong*, <ins>Qiao Liu*</ins>. bioRxiv, 2026.
+summary: Xuejian Cui, Haochen Wang, Zijing Gao, Rui Jiang<sup>&#42;</sup>, Wing Hung Wong<sup>&#42;</sup>, <ins>Qiao Liu<sup>&#42;</sup></ins>. bioRxiv, 2026.
 
 tags:
 - AI

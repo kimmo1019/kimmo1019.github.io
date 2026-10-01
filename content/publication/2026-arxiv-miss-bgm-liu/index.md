@@ -2,6 +2,8 @@
 title: Missingness-aware Data Imputation via AI-powered Bayesian Generative Modeling
 authors:
 - Qiao_Liu
+author_notes:
+- "Corresponding author"
 date: '2026-05-13'
 doi: '10.48550/arXiv.2605.01676'
 
@@ -18,7 +20,7 @@ publication_short: ""
 abstract: Missing data imputation remains a fundamental challenge in modern data science, especially when uncertainty quantification is essential. In this work, we propose MissBGM, an AI-powered missing data imputation method via Bayesian generative modeling that bridges the expressive flexibility of neural networks with the statistical rigor of Bayesian inference. Unlike existing methods that often focus on point estimates or treat the missingness mechanism implicitly, MissBGM explicitly and jointly models the data-generating and missingness mechanisms, providing principled posterior uncertainty over imputations rather than a single point estimate. We develop a stochastic optimization framework with alternating updates among missing values, model parameters, and latent variables until convergence. Our theoretical analysis shows that estimates of missing values from MissBGM converge consistently under mild assumptions. Empirically, we demonstrate that MissBGM achieves superior performance over traditional imputers and recent neural network-based methods across extensive experimental settings. These results establish MissBGM as a principled and scalable solution for modern missing data imputation. The code for MissBGM is open sourced at https://github.com/liuq-lab/MissBGM.
 
 # Summary. An optional shortened abstract.
-summary: <ins>Qiao Liu</ins>. arXiv, 2026.
+summary: <ins>Qiao Liu<sup>&#42;</sup></ins>. arXiv, 2026.
 
 tags:
 - AI

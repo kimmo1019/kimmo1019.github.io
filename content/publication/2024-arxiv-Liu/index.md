@@ -9,8 +9,13 @@ authors:
 - Lexin Li
 - Wing Hung Wong
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Co-first author; corresponding author"
+- "Co-first author"
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
 date: "2026-01-01T00:00:00Z"
 doi: ""
 
@@ -29,7 +34,7 @@ publication_short: ""
 abstract: Genome-wide association studies (GWAS) have identified numerous genetic variants associated with Alzheimer's disease (AD) phenotypes. However, how these variants contribute to the etiology of AD remains largely elusive. Recent advances in genomic large language models (LLMs) have revolutionized regulatory genomic prediction tasks, offering new opportunities to interpret the genetic variation observed in personal genome. In this study, we propose epiBrainLLM, a novel computational framework that leverages genomic LLM to enhance our understanding of the causal pathways from genotypes to brain measures to AD-related clinical phenotypes. Our framework will first convert the personal DNA sequence into a diverse set of genomic and epigenomic features using a pretrained genomic LLM and then use these features to further predict phenotypes. Across various experimental settings, our results demonstrate that incorporating pretrained genomic LLMs significantly improves association analysis compared to using genotype information alone. We conclude that our proposed framework provides a novel perspective for understanding the regulatory mechanisms underlying the AD disease etiology, potentially offering insights into complex disease mechanisms beyond AD.
 
 # Summary. An optional shortened abstract.
-summary: <ins>Qiao Liu<sup>†,*</sup></ins>, Zhaoyang Zhang<sup>†</sup>, Haochen Wang, Heping Zhang, Hongtu Zhu, Lexin Li<sup>*</sup>, Wing Hung Wong<sup>*</sup>. medRxiv, 2026.
+summary: <ins>Qiao Liu<sup>†,&#42;</sup></ins>, Zhaoyang Zhang<sup>†</sup>, Haochen Wang, Heping Zhang, Hongtu Zhu, Lexin Li<sup>&#42;</sup>, Wing Hung Wong<sup>&#42;</sup>. medRxiv, 2026.
 
 tags:
 - AI
