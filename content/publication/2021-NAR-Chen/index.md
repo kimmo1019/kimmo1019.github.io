@@ -10,6 +10,16 @@ authors:
 - Xuegong Zhang
 - Yong Wang
 - Rui Jiang
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 date: "2021-07-02T00:00:00Z"
 doi: "10.1093/nar/gkab337"
 
@@ -28,7 +38,7 @@ publication_short: ""
 abstract: Chromatin accessibility, as a powerful marker of active DNA regulatory elements, provides valuable information for understanding regulatory mechanisms. The revolution in high-throughput methods has accumulated massive chromatin accessibility profiles in public repositories. Nevertheless, utilization of these data is hampered by cumbersome collection, time-consuming processing, and manual chromatin accessibility (openness) annotation of genomic regions. To fill this gap, we developed OpenAnnotate (http://health.tsinghua.edu.cn/openannotate/) as the first web server for efficiently annotating openness of massive genomic regions across various biosample types, tissues, and biological systems. In addition to the annotation resource from 2729 comprehensive profiles of 614 biosample types of human and mouse, OpenAnnotate provides user-friendly functionalities, ultra-efficient calculation, real-time browsing, intuitive visualization, and elaborate application notebooks. We show its unique advantages compared to existing databases and toolkits by effectively revealing cell type-specificity, identifying regulatory elements and 3D chromatin contacts, deciphering gene functional relationships, inferring functions of transcription factors, and unprecedentedly promoting single-cell data analyses. We anticipate OpenAnnotate will provide a promising avenue for researchers to construct a more holistic perspective to understand regulatory mechanisms.
 
 # Summary. An optional shortened abstract.
-summary: Shengquan Chen, Qiao Liu, Xuejian Cui, Zhanying Feng, Chunquan Li, Xiaowo Wang, Xuegong Zhang, Yong Wang, Rui Jiang. Nucleic Acids Research, 2021.
+summary: Shengquan Chen, Qiao Liu, Xuejian Cui, Zhanying Feng, Chunquan Li, Xiaowo Wang, Xuegong Zhang, Yong Wang, Rui Jiang<sup>&#42;</sup>. Nucleic Acids Research, 2021.
 
 tags:
 - Database

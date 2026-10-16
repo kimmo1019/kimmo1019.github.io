@@ -16,6 +16,22 @@ authors:
 - Jonathan Bloom
 - Smita Krishnaswamy
 - Fabian J. Theis
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Equal contribution; Corresponding author"
+- "Equal contribution; Corresponding author"
+- "Equal contribution; Corresponding author"
+- "Equal contribution; Corresponding author"
 date: "2022-01-11T00:00:00Z"
 doi: ""
 
@@ -34,7 +50,7 @@ publication_short: ""
 abstract: Biology has become a data-intensive science. Recent technological advances in single-cell genomics have enabled the measurement of multiple facets of cellular state, producing datasets with millions of single-cell observations. While these data hold great promise for understanding molecular mechanisms in health and disease, analysis challenges arising from sparsity, technical and biological variability, and high dimensionality of the data hinder the derivation of such mechanistic insights. To promote the innovation of algorithms for analysis of multimodal single-cell data, we organized a competition at NeurIPS 2021 applying the Common Task Framework to multimodal single-cell data integration. For this competition we generated the first multimodal benchmarking dataset for single-cell biology and defined three tasks in this domain. Prediction of missing modalities, aligning modalities, and learning a joint representation across modalities. We further specified evaluation metrics and developed a cloud-based algorithm evaluation pipeline. Using this setup, 280 competitors submitted over 2600 proposed solutions within a 3 month period, showcasing substantial innovation especially in the modality alignment task. Here, we present the results, describe trends of well performing approaches, and discuss challenges associated with running the competition.
 
 # Summary. An optional shortened abstract.
-summary: Christopher Lance, Malte D Luecken, Daniel B Burkhardt,...,Qiao Liu,...,Fabian J Theis. Proceedings of Machine Learning Research(PMLR), 2022.
+summary: Christopher Lance, Malte D Luecken, Daniel B Burkhardt,...,Qiao Liu,...,Angela Oliveira Pisco<sup>&#42;</sup>, Jonathan Bloom<sup>&#42;</sup>, Smita Krishnaswamy<sup>&#42;</sup>, Fabian J Theis<sup>&#42;</sup>. Proceedings of Machine Learning Research(PMLR), 2022.
 
 tags:
 - AI

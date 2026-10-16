@@ -6,6 +6,12 @@ authors:
 - Qiao_Liu
 - Hairong Lv
 - Rui Jiang
+author_notes:
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
 date: "2019-04-04T00:00:00Z"
 doi: "10.1186/s12864-019-5489-4"
 
@@ -24,7 +30,7 @@ publication_short: ""
 abstract: Quantitative detection of histone modifications has emerged in the recent years as a major means for understanding such biological processes as chromosome packaging, transcriptional activation, and DNA damage. However, high-throughput experimental techniques such as ChIP-seq are usually expensive and time-consuming, prohibiting the establishment of a histone modification landscape for hundreds of cell types across dozens of histone markers. These disadvantages have been appealing for computational methods to complement experimental approaches towards large-scale analysis of histone modifications. We proposed a deep learning framework to integrate sequence information and chromatin accessibility data for the accurate prediction of modification sites specific to different histone markers. Our method, named DeepHistone, outperformed several baseline methods in a series of comprehensive validation experiments, not only within an epigenome but also across epigenomes. Besides, sequence signatures automatically extracted by our method was consistent with known transcription factor binding sites, thereby giving insights into regulatory signatures of histone modifications. As an application, our method was shown to be able to distinguish functional single nucleotide polymorphisms from their nearby genetic variants, thereby having the potential to be used for exploring functional implications of putative disease-associated genetic variants. DeepHistone demonstrated the possibility of using a deep learning framework to integrate DNA sequence and experimental data for predicting epigenomic signals. With the state-of-the-art performance, DeepHistone was expected to shed light on a variety of epigenomic studies. DeepHistone is freely available in https://github.com/QijinYin/DeepHistone.
 
 # Summary. An optional shortened abstract.
-summary: Qijin Yin, Mengmeng Wu, Qiao Liu, Hairong Lv & Rui Jiang. BMC genomics, 2019.
+summary: Qijin Yin, Mengmeng Wu, Qiao Liu, Hairong Lv<sup>&#42;</sup> & Rui Jiang<sup>&#42;</sup>. BMC genomics, 2019.
 
 tags:
 - AI

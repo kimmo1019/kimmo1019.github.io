@@ -7,6 +7,13 @@ authors:
 - Mu Zhou
 - Rui Jiang
 - Xuegong Zhang
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 date: "2022-04-15T00:00:00Z"
 doi: "10.1186/s12859-022-04664-4"
 
@@ -25,7 +32,7 @@ publication_short: ""
 abstract: Drug resistance is a critical obstacle in cancer therapy. Discovering cancer drug response is important to improve anti-cancer drug treatment and guide anti-cancer drug design. Abundant genomic and drug response resources of cancer cell lines provide unprecedented opportunities for such study. However, cancer cell lines cannot fully reflect heterogeneous tumor microenvironments. Transferring knowledge studied from in vitro cell lines to single-cell and clinical data will be a promising direction to better understand drug resistance. Most current studies include single nucleotide variants (SNV) as features and focus on improving predictive ability of cancer drug response on cell lines. However, obtaining accurate SNVs from clinical tumor samples and single-cell data is not reliable. This makes it difficult to generalize such SNV-based models to clinical tumor data or single-cell level studies in the future. We present a new method, DualGCN, a unified Dual Graph Convolutional Network model to predict cancer drug response. DualGCN encodes both chemical structures of drugs and omics data of biological samples using graph convolutional networks. Then the two embeddings are fed into a multilayer perceptron to predict drug response. DualGCN incorporates prior knowledge on cancer-related genes and protein–protein interactions, and outperforms most state-of-the-art methods while avoiding using large-scale SNV data. The proposed method outperforms most state-of-the-art methods in predicting cancer drug response without the use of large-scale SNV data. These favorable results indicate its potential to be extended to clinical and single-cell tumor samples and advancements in precision medicine.
 
 # Summary. An optional shortened abstract.
-summary: Tianxing Ma, Qiao Liu, Haochen Li, Mu Zhou, Rui Jiang & Xuegong Zhang.  BMC Bioinformatics, 2022.
+summary: Tianxing Ma, Qiao Liu, Haochen Li, Mu Zhou, Rui Jiang & Xuegong Zhang<sup>&#42;</sup>.  BMC Bioinformatics, 2022.
 
 tags:
 - AI

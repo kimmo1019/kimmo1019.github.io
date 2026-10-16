@@ -4,6 +4,10 @@ authors:
 - Junfeng Liu
 - Qiao_Liu
 - Qingzhu Yang
+author_notes:
+- "Corresponding author"
+- ""
+- "Corresponding author"
 date: "2020-05-04T00:00:00Z"
 doi: "10.1093/gbe/evaa087"
 
@@ -22,7 +26,7 @@ publication_short: ""
 abstract: Gene flow between species may cause variations in branch length and topology of gene tree, which are beyond the expected variations from ancestral processes. These additional variations make it difficult to estimate parameters during speciation with gene flow, as the pattern of these additional variations differs with the relationship between isolation and migration. As far as we know, most methods rely on the assumption about the relationship between isolation and migration by a given model, such as the isolation-with-migration model, when estimating parameters during speciation with gene flow. In this article, we develop a multispecies coalescent approach which does not rely on any assumption about the relationship between isolation and migration when estimating parameters and is called mstree. mstree is available at https://github.com/liujunfengtop/MStree/ and uses some mathematical inequalities among several factors, which include the species divergence time, the ancestral population size, and the number of gene trees, to estimate parameters during speciation with gene flow. Using simulations, we show that the estimated values of ancestral population sizes and species divergence times are close to the true values when analyzing the simulation data sets, which are generated based on the isolation-with-initial-migration model, secondary contact model, and isolation-with-migration model. Therefore, our method is able to estimate ancestral population sizes and speciation times in the presence of different modes of gene flow and may be helpful to test different theories of speciation.
 
 # Summary. An optional shortened abstract.
-summary: Junfeng Liu, Qiao Liu, Qingzhu Yang. Genome biology and evolution, 2020.
+summary: Junfeng Liu<sup>&#42;</sup>, Qiao Liu, Qingzhu Yang<sup>&#42;</sup>. Genome biology and evolution, 2020.
 
 tags:
 - Genomics

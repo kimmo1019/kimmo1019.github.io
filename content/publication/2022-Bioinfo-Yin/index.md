@@ -1,10 +1,23 @@
 ---
 title: "scGraph: a graph neural network-based approach to automatically identify cell types"
 authors:
-- Qijin Yin
-- Qiao_Liu
-- Zhuoran Fu
-- Rui Jiang
+- "Qijin Yin"
+- "Qiao_Liu"
+- "Zhuoran Fu"
+- "Wanwen Zeng"
+- "Boheng Zhang"
+- "Xuegong Zhang"
+- "Rui Jiang"
+- "Hairong Lv"
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 date: "2022-04-08T00:00:00Z"
 doi: "10.1093/bioinformatics/btac199"
 
@@ -23,7 +36,7 @@ publication_short: ""
 abstract: Single-cell technologies play a crucial role in revolutionizing biological research over the past decade, which strengthens our understanding in cell differentiation, development and regulation from a single-cell level perspective. Single-cell RNA sequencing (scRNA-seq) is one of the most common single cell technologies, which enables probing transcriptional states in thousands of cells in one experiment. Identification of cell types from scRNA-seq measurements is a fundamental and crucial question to answer. Most previous studies directly take gene expression as input while ignoring the comprehensive gene–gene interactions. We propose scGraph, an automatic cell identification algorithm leveraging gene interaction relationships to enhance the performance of the cell-type identification. scGraph is based on a graph neural network to aggregate the information of interacting genes. In a series of experiments, we demonstrate that scGraph is accurate and outperforms eight comparison methods in the task of cell-type identification. Moreover, scGraph automatically learns the gene interaction relationships from biological data and the pathway enrichment analysis shows consistent findings with previous analysis, providing insights on the analysis of regulatory mechanism.
 
 # Summary. An optional shortened abstract.
-summary: Qijin Yin, Qiao Liu, Zhuoran Fu, Rui Jiang. Bioinformatics, 2022.
+summary: Qijin Yin, <ins>Qiao Liu</ins>, Zhuoran Fu, Wanwen Zeng, Boheng Zhang, Xuegong Zhang, Rui Jiang, Hairong Lv<sup>&#42;</sup>. Bioinformatics, 2022.
 
 tags:
 - AI

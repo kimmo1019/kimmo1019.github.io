@@ -18,7 +18,15 @@ authors:
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
-author_notes: []
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
 
 date: '2025-02-01'
 

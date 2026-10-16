@@ -1,5 +1,5 @@
 ---
-title: "EpiGePT: a pretrained transformer-basedlanguage model for context-specific humanepigenomics"
+title: "EpiGePT: a pretrained transformer-based language model for context-specific human epigenomics"
 authors:
 - Zijing_Gao
 - Qiao_Liu
@@ -8,12 +8,12 @@ authors:
 - Wing Hung Wong
 author_notes:
 - "Co-first author"
-- "Co-first author; corresponding author"
+- "Co-first author; Corresponding author"
 - ""
 - "Corresponding author"
 - "Corresponding author"
-date: "2024-02-03T00:00:00Z"
-doi: "10.1101/2023.07.15.549134"
+date: "2024-12-18T00:00:00Z"
+doi: "10.1186/s13059-024-03449-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-03T00:00:00Z"
@@ -44,7 +44,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://rdcu.be/d36pt
+url_pdf: https://genomebiology.biomedcentral.com/counter/pdf/10.1186/s13059-024-03449-7
 url_code: 'https://github.com/ZjGaothu/EpiGePT'
 url_dataset: ''
 url_poster: ''

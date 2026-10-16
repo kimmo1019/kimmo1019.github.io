@@ -7,6 +7,13 @@ authors:
 - Shuang Chen
 - Qiao_Liu
 - Wanwen Zeng
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 date: "2023-01-11T00:00:00Z"
 doi: "10.1093/bioadv/vbad001"
 
@@ -25,7 +32,7 @@ publication_short: ""
 abstract: The transformer-based language models, including vanilla transformer, BERT and GPT-3, have achieved revolutionary breakthroughs in the field of natural language processing (NLP). Since there are inherent similarities between various biological sequences and natural languages, the remarkable interpretability and adaptability of these models have prompted a new wave of their application in bioinformatics research. To provide a timely and comprehensive review, we introduce key developments of transformer-based language models by describing the detailed structure of transformers and summarize their contribution to a wide range of bioinformatics research from basic sequence analysis to drug discovery. While transformer-based applications in bioinformatics are diverse and multifaceted, we identify and discuss the common challenges, including heterogeneity of training data, computational expense and model interpretability, and opportunities in the context of bioinformatics research. We hope that the broader community of NLP researchers, bioinformaticians and biologists will be brought together to foster future research and development in transformer-based language models, and inspire novel bioinformatics applications that are unattainable by traditional methods.
 
 # Summary. An optional shortened abstract.
-summary: Shuang Zhang, Yuti Liu, Shuang Chen, Qiao Liu, Wanwen Zeng. Bioinformatics Advances, 2023.
+summary: Shuang Zhang, Yuti Liu, Shuang Chen, Qiao Liu, Wanwen Zeng<sup>&#42;</sup>. Bioinformatics Advances, 2023.
 
 tags:
 - AI

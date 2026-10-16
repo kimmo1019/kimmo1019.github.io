@@ -9,6 +9,15 @@ authors:
 - Rui Jiang
 - Mu Zhou
 - Shaoting Zhang
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
 date: "2022-12-01T00:00:00Z"
 doi: "10.1093/bib/bbac494"
 
@@ -27,7 +36,7 @@ publication_short: ""
 abstract: Deciphering 3D genome conformation is important for understanding gene regulation and cellular function at a spatial level. The recent advances of single cell Hi-C technologies have enabled the profiling of the 3D architecture of DNA within individual cell, which allows us to study the cell-to-cell variability of 3D chromatin organization. Computational approaches are in urgent need to comprehensively analyze the sparse and heterogeneous single cell Hi-C data. Here, we proposed scDEC-Hi-C, a new framework for single cell Hi-C analysis with deep generative neural networks. scDEC-Hi-C outperforms existing methods in terms of single cell Hi-C data clustering and imputation. Moreover, the generative power of scDEC-Hi-C could help unveil the differences of chromatin architecture across cell types. We expect that scDEC-Hi-C could shed light on deepening our understanding of the complex mechanism underlying the formation of chromatin contacts.
 
 # Summary. An optional shortened abstract.
-summary: Qiao Liu, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang. Brief. Bioinform, 2022.
+summary: Qiao Liu, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang<sup>&#42;</sup>, Mu Zhou<sup>&#42;</sup>, Shaoting Zhang<sup>&#42;</sup>. Brief. Bioinform, 2022.
 
 tags:
 - AI

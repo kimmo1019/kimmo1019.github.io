@@ -5,6 +5,11 @@ authors:
 - Qiao_Liu
 - Minlie Huang
 - Tao Jiang
+author_notes:
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
 date: "2020-01-11T00:00:00Z"
 doi: ""
 
@@ -23,7 +28,7 @@ publication_short: ""
 abstract: A major challenge in the pharmaceutical industry is to design novel molecules with specific desired properties, especially when the property evaluation is costly. Here, we propose MNCE-RL, a graph convolutional policy network for molecular optimization with molecular neighborhood-controlled embedding grammars through reinforcement learning. We extend the original neighborhood-controlled embedding grammars to make them applicable to molecular graph generation and design an efficient algorithm to infer grammatical production rules from given molecules. The use of grammars guarantees the validity of the generated molecular structures. By transforming molecular graphs to parse trees with the inferred grammars, the molecular structure generation task is modeled as a Markov decision process where a policy gradient strategy is utilized. In a series of experiments, we demonstrate that our approach achieves state-of-the-art performance in a diverse range of molecular optimization tasks and exhibits significant superiority in optimizing molecular properties with a limited number of property evaluations.
 
 # Summary. An optional shortened abstract.
-summary: Chencheng Xu, Qiao Liu, Minlie Huang, Tao Jiang. NeurIPS, 2020.
+summary: Chencheng Xu, Qiao Liu, Minlie Huang<sup>&#42;</sup>, Tao Jiang<sup>&#42;</sup>. NeurIPS, 2020.
 
 tags:
 - AI

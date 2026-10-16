@@ -22,7 +22,7 @@ author_notes:
 - "Corresponding author"
 - "Corresponding author"
 
-date: '2026-04-01'
+date: '2026-04-14'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2026-05-14T16:46:40.378352Z'
@@ -33,7 +33,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Nature Communications*'
+publication: '*Nature Communications*, 17, 5196, 2026'
 publication_short: ''
 
 doi: '10.1038/s41467-026-71744-x'
@@ -55,7 +55,7 @@ tags:
 featured: false
 
 # Links
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2025.02.27.640020v3.full.pdf'
+url_pdf: 'https://www.nature.com/articles/s41467-026-71744-x.pdf'
 url_code: 'https://github.com/EperLuo/scDiffusion-X'
 url_dataset: ''
 url_poster: ''

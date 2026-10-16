@@ -7,6 +7,13 @@ authors:
 - Qiao_Liu
 - Rui Jiang
 - Wanwen Zeng
+author_notes:
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
 date: "2023-04-21T00:00:00Z"
 doi: "10.15302/J-QB-022-0320"
 
@@ -25,7 +32,7 @@ publication_short: ""
 abstract: Computational approaches for accurate prediction of drug interactions, such as drug-drug interactions (DDIs) and drug-target interactions (DTIs), are highly demanded for biochemical researchers. Despite the fact that many methods have been proposed and developed to predict DDIs and DTIs respectively, their success is still limited due to a lack of systematic evaluation of the intrinsic properties embedded in the corresponding chemical structure. In this paper, we develop DeepDrug, a deep learning framework for overcoming the above limitation by using residual graph convolutional networks (Res-GCNs) and convolutional networks (CNNs) to learn the comprehensive structure- and sequence-based representations of drugs and proteins.DeepDrug outperforms state-of-the-art methods in a series of systematic experiments, including binary-class DDIs, multi-class/multi-label DDIs, binary-class DTIs classification and DTIs regression tasks. Furthermore, we visualize the structural features learned by DeepDrug Res-GCN module, which displays compatible and accordant patterns in chemical properties and drug categories, providing additional evidence to support the strong predictive power of DeepDrug. Ultimately, we apply DeepDrug to perform drug repositioning on the whole DrugBank database to discover the potential drug candidates against SARS-CoV-2, where 7 out of 10 top-ranked drugs are reported to be repurposed to potentially treat coronavirus disease 2019 (COVID-19). To sum up, we believe that DeepDrug is an efficient tool in accurate prediction of DDIs and DTIs and provides a promising insight in understanding the underlying mechanism of these biochemical relations.
 
 # Summary. An optional shortened abstract.
-summary: Qijin Yin, Rui Fan, Xusheng Cao Qiao Liu#, Rui Jiang# and Wanwen Zeng#. Quantitative Biology, 2023.
+summary: Qijin Yin, Rui Fan, Xusheng Cao, Qiao Liu<sup>&#42;</sup>, Rui Jiang<sup>&#42;</sup> and Wanwen Zeng<sup>&#42;</sup>. Quantitative Biology, 2023.
 
 tags:
 - AI

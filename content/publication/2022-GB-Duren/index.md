@@ -7,6 +7,13 @@ authors:
 - Jingxue Xin
 - Qiao_Liu
 - Wing Hung Wong
+author_notes:
+- "Corresponding author"
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 date: "2022-05-16T00:00:00Z"
 doi: "10.1186/s13059-022-02682-2"
 
@@ -25,7 +32,7 @@ publication_short: ""
 abstract: Technological development has enabled the profiling of gene expression and chromatin accessibility from the same cell. We develop scREG, a dimension reduction methodology, based on the concept of cis-regulatory potential, for single cell multiome data. This concept is further used for the construction of subpopulation-specific cis-regulatory networks. The capability of inferring useful regulatory network is demonstrated by the two-fold increment on network inference accuracy compared to the Pearson correlation-based method and the 27-fold enrichment of GWAS variants for inflammatory bowel disease in the cis-regulatory elements. The R package scREG provides comprehensive functions for single cell multiome data analysis.
 
 # Summary. An optional shortened abstract.
-summary: Zhana Duren, Fengge Chang, Fnu Naqing, Jingxue Xin, Qiao Liu, Wing Hung Wong. Genome Biology, 2022.
+summary: Zhana Duren<sup>&#42;</sup>, Fengge Chang, Fnu Naqing, Jingxue Xin, Qiao Liu, Wing Hung Wong<sup>&#42;</sup>. Genome Biology, 2022.
 
 tags:
 - Genomics

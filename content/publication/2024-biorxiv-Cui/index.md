@@ -1,17 +1,29 @@
 ---
-title: "CREATE: cell-type-specific cis-regulatory elements identification via discrete embedding"
+title: "CREATE: cell-type-specific cis-regulatory element identification via discrete embedding"
 authors:
 - Xuejian_Cui
 - Qijin Yin
 - Zijing_Gao
 - Zhen Li
 - Xiaoyang Chen
+- Hairong Lv
 - Shengquan Chen
 - Qiao_Liu
 - Wanwen Zeng
 - Rui Jiang
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
 
-date: "2024-10-03T00:00:00Z"
+date: "2025-05-17T00:00:00Z"
 doi: "10.1038/s41467-025-59780-5"
 
 # Schedule page publish date (NOT publication's date).
@@ -23,13 +35,13 @@ publishDate: "2025-05-17T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Communication, 2025"
+publication: "Nature Communications, 16, 4607, 2025"
 publication_short: ""
 
 abstract: Identifying cis-regulatory elements (CREs) within non-coding genomic regions-such as enhancers, silencers, promoters, and insulators-is pivotal for elucidating the intricate gene regulatory mechanisms underlying complex biological traits. The current prevalent sequence-based methods often focus on singular CRE types, limiting insights into cell-type-specific biological implications. Here, we introduce CREATE, a multimodal deep learning model based on the Vector Quantized Variational AutoEncoder framework, designed to extract discrete CRE embeddings and classify multiple CRE classes using genomic sequences, chromatin accessibility, and chromatin interaction data. CREATE excels in accurate CRE identification and exhibits strong effectiveness and robustness. We showcase CREATE's capability in generating comprehensive CRE-specific feature spectrum, offering quantitative and interpretable insights into CRE specificity. By enabling large-scale prediction of CREs in specific cell types, CREATE facilitates the recognition of disease- or phenotype-related biological variabilities of CREs, thereby expanding our understanding of gene regulation landscapes.
 
 # Summary. An optional shortened abstract.
-summary: Xuejian Cui, Qijin Yin, Zijing Gao, Zhen Li, Xiaoyang Chen, Shengquan Chen, Qiao Liu, Wanwen Zeng, Rui Jiang. bioRxiv, 2024.
+summary: Xuejian Cui, Qijin Yin, Zijing Gao, Zhen Li, Xiaoyang Chen, Hairong Lv, Shengquan Chen, <ins>Qiao Liu</ins>, Wanwen Zeng<sup>&#42;</sup>, Rui Jiang<sup>&#42;</sup>. Nature Communications, 2025.
 
 tags:
 - AI
@@ -39,7 +51,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41467-025-59780-5
+url_pdf: https://www.nature.com/articles/s41467-025-59780-5.pdf
 url_code: 'https://github.com/cuixj19/CREATE'
 url_dataset: ''
 url_poster: ''

@@ -16,9 +16,15 @@ authors:
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
-author_notes: []
+author_notes:
+- ""
+- ""
+- "Corresponding author"
+- ""
+- ""
+- ""
 
-date: '2024-01-01'
+date: '2024-03-09'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-08-14T16:46:40.388324Z'
@@ -32,7 +38,7 @@ publication_types:
 publication: '*BMC bioinformatics*'
 publication_short: ''
 
-doi: ''
+doi: '10.1186/s12859-024-05723-8'
 
 abstract: ''
 

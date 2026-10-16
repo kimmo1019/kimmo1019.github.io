@@ -7,6 +7,13 @@ authors:
 - Minzhu Xie
 - Jianxing Feng
 - Tao Jiang
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
 date: "2019-11-06T00:00:00Z"
 doi: "10.1093/bioinformatics/btz767"
 
@@ -27,7 +34,7 @@ abstract: Advances in high-throughput genotyping and sequencing technologies dur
 
 
 # Summary. An optional shortened abstract.
-summary: Chencheng Xu, Qiao Liu, Jianyu Zhou, Minzhu Xie, Jianxing Feng, Tao Jiang. Bioinformatics, 2020.
+summary: Chencheng Xu, Qiao Liu, Jianyu Zhou, Minzhu Xie, Jianxing Feng<sup>&#42;</sup>, Tao Jiang<sup>&#42;</sup>. Bioinformatics, 2020.
 
 tags:
 - AI

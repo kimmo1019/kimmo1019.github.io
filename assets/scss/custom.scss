@@ -85,6 +85,15 @@ nav .navbar-nav > .nav-item > .nav-link,
   height: auto;
 }
 
+/* Keep author names visually consistent in publication listings. */
+#projects .article-style ins {
+  text-decoration: none;
+}
+
+#container-publications .author-highlighted {
+  font-weight: inherit;
+}
+
 /* Keep the native People block; scope the 1/2/4-column layout to this section. */
 #lab-members {
   .section-heading h1 { font-size: 1.5rem; }

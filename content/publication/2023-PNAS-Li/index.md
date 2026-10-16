@@ -7,8 +7,17 @@ authors:
 - Wenyuan Li
 - Mary L. Stackpole
 - Wing Hung Wong
-- Steven M. Dubinett SDubinett
+- Steven M. Dubinett
 - Xianghong Jasmine Zhou
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
 date: "2023-07-03T00:00:00Z"
 doi: "10.1073/pnas.2305236120"
 
@@ -21,7 +30,7 @@ publishDate: "2023-07-03T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the National Academy of Sciences, 120(28), e2305236120, 2013."
+publication: "Proceedings of the National Academy of Sciences, 120(28), e2305236120, 2023."
 publication_short: ""
 
 abstract: Plasma cell-free DNA (cfDNA) is a noninvasive biomarker for cell death of all organs. Deciphering the tissue origin of cfDNA can reveal abnormal cell death because of diseases, which has great clinical potential in disease detection and monitoring. Despite the great promise, the sensitive and accurate quantification of tissue-derived cfDNA remains challenging to existing methods due to the limited characterization of tissue methylation and the reliance on unsupervised methods. To fully exploit the clinical potential of tissue-derived cfDNA, here we present one of the largest comprehensive and high-resolution methylation atlas based on 521 noncancer tissue samples spanning 29 major types of human tissues. We systematically identified fragment-level tissue-specific methylation patterns and extensively validated them in orthogonal datasets. Based on the rich tissue methylation atlas, we develop the first supervised tissue deconvolution approach, a deep-learning-powered model, cfSort, for sensitive and accurate tissue deconvolution in cfDNA. On the benchmarking data, cfSort showed superior sensitivity and accuracy compared to the existing methods. We further demonstrated the clinical utilities of cfSort with two potential applications. Aiding disease diagnosis and monitoring treatment side effects. The tissue-derived cfDNA fraction estimated from cfSort reflected the clinical outcomes of the patients. In summary, the tissue methylation atlas and cfSort enhanced the performance of tissue deconvolution in cfDNA, thus facilitating cfDNA-based disease detection and longitudinal treatment monitoring.

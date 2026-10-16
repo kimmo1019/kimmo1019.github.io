@@ -11,8 +11,7 @@ author_notes:
 - ""
 
 date: '2026-01-08'
-doi: "10.48550/arXiv.2601.05355
-"
+doi: "10.48550/arXiv.2601.05355"
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2026-01-08T10:48:59.116372Z'

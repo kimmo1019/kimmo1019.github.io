@@ -125,8 +125,6 @@ sections:
       subtitle: 
       text: |-
         Full publications can be found at [Publications]({{< ref "../publication/" >}} "Publications") tab or [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=en).
-
-        <sup>†</sup> Co-first author; <sup>&#42;</sup> Corresponding author.
       filters:
         # Folders to display content from
         folders:

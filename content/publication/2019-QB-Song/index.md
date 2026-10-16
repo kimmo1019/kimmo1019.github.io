@@ -7,6 +7,12 @@ authors:
 - Shengquan Chen
 - Qiao_Liu
 - Rui Jiang
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 date: "2019-09-01T00:00:00Z"
 doi: "10.1007/s40484-019-0175-8"
 
@@ -25,7 +31,7 @@ publication_short: ""
 abstract: Transcription factor is one of the most important regulators in the transcriptional process. Nevertheless, the functional interpretation of transcription factors is still a main challenge due to the poor performance of methods relating to regulatory regions to genes. Epigenetic information, such as chromatin accessibility, contains genome-wide knowledge about transcription regulation and thus may shed light on the functional interpretation of transcription factors. We propose EpiFIT (Epigenetic based Functional Interpretation of Transcription factors), a tool to infer functions of transcription factors from ChIP-seq data. Briefly, we adopt a variable distance rule to establish associations between regulatory regions and nearby genes. The associations are then filtered to ensure that the remaining regions and associated genes are co-open. Finally, GO enrichment is applied to all related genes and a ranking list of GO terms is provided as functional interpretation. We first examined the chromatin openness correlation between regulatory regions and associated genes. The correlation can help EpiFIT purify regulatory region–gene associations. By evaluating EpiFIT on a set of real data, we demonstrated that EpiFIT outperforms other existing methods for precisely interpreting transcription factor functions. We further verify the efficiency of openness in interpretation and the ability of EpiFIT to build distal region-gene associations. EpiFIT is a powerful tool for interpreting the transcription factor functions. We believe EpiFIT will facilitate the functional interpretation of other regulatory elements, and thus open a new door to understanding the regulatory mechanism.
 
 # Summary. An optional shortened abstract.
-summary: Shaoming Song, Hongfei Cui, Shengquan Chen, Qiao Liu, Rui Jiang. Quantitative Biology, 2019.
+summary: Shaoming Song, Hongfei Cui, Shengquan Chen, Qiao Liu, Rui Jiang<sup>&#42;</sup>. Quantitative Biology, 2019.
 
 tags:
 - Genomics

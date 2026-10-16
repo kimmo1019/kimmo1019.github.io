@@ -4,6 +4,10 @@ authors:
 - Qingzhu Yang
 - Qiao_Liu
 - Hairong Lv
+author_notes:
+- ""
+- ""
+- "Corresponding author"
 date: "2020-01-11T00:00:00Z"
 doi: ""
 
@@ -22,7 +26,7 @@ publication_short: ""
 abstract: With the rapid advance of data science, massive medical data are managed in data centers which may cause surveillance and security issues. This calls for building a secure data management system. In this paper, we propose a decentralized system for medical data management, to address the challenge of data privacy protection during data sharing between network nodes, leveraging the blockchain technology. We propose protocols to achieve this and normalize data format recorded on the blockchain. The entities of our system include users, contributing data; edge data hub (EDH) nodes, used for storing users’ data (an EDH stores one user’s data and is controlled by the corresponding user); service nodes, with the ability to analyze user data and customers that need the analysis of the data. To protect data privacy in the EDH, we use a secure computing platform (SCP) to process data. Furthermore, data request from a service with high credibility is more likely to be permitted by the EDH. Data authenticity is guaranteed by checking the hash value recorded on the blockchain. Moreover, we reduce the off-blockchain storage space leveraging the data sparsity. Our system thus enables data sharing, authenticity, privacy protection and storage space reduction, shedding lights on building a developable and secure data-driven world.
 
 # Summary. An optional shortened abstract.
-summary: Qingzhu Yang, Qiao Liu, Hairong Lv. Journal of Internet Technology, 2020.
+summary: Qingzhu Yang, Qiao Liu, Hairong Lv<sup>&#42;</sup>. Journal of Internet Technology, 2020.
 
 tags:
 - Database
