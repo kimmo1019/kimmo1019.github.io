@@ -23,7 +23,8 @@ tags:
   - AI
   - Statistics
   - CI
-featured: false
+  - HL
+featured: true
 url_pdf: 'https://arxiv.org/pdf/2605.07029'
 url_code: 'https://github.com/liuq-lab/BGM-IV'
 url_dataset: ''
